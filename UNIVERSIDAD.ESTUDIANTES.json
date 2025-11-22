@@ -1,0 +1,5526 @@
+[{
+  "_id": {
+    "$oid": "691932069ab2a696fccc50fc"
+  },
+  "ID_MT": "4G013",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.725132,
+  "Fallecidos": 1,
+  "GiPValue": 0.084504,
+  "Tramo": "Bogotá - Villavicencio",
+  "Nombre": "IP  –  Chirajara - Fundadores",
+  "Latitud": 4.121453,
+  "Longitud": -73.643971,
+  "PR": 85,
+  "Municipio": "VILLAVICENCIO",
+  "Departamento": "META",
+  "divipola": 50001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc50fd"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.725132,
+  "Fallecidos": 13,
+  "GiPValue": 0.084504,
+  "Tramo": "Granada - Villavicencio",
+  "Latitud": 4.115757,
+  "Longitud": -73.647497,
+  "PR": "sd",
+  "Municipio": "VILLAVICENCIO",
+  "Departamento": "META",
+  "divipola": 50001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc50fe"
+  },
+  "ID_MT": "4G020",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.93442,
+  "Fallecidos": 4,
+  "GiPValue": 0.053062,
+  "Tramo": "Villavicencio - Yopal",
+  "Nombre": "Villavicencio - Yopal",
+  "Latitud": 4.201806,
+  "Longitud": -73.592214,
+  "PR": 8,
+  "Municipio": "RESTREPO",
+  "Departamento": "META",
+  "divipola": 50606
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc50ff"
+  },
+  "ID_MT": "3G001",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.942162,
+  "Fallecidos": 1,
+  "GiPValue": 0.052117,
+  "Tramo": "Duitama-Sogamoso",
+  "Nombre": "Briceño - Tunja - Sogamoso",
+  "Latitud": 5.808537,
+  "Longitud": -73.012985,
+  "PR": 2,
+  "Municipio": "TIBASOSA",
+  "Departamento": "BOYACÁ",
+  "divipola": 15806
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5100"
+  },
+  "ID_MT": "3G001",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.144165,
+  "Fallecidos": 15,
+  "GiPValue": 0.03202,
+  "Tramo": "Duitama-Sogamoso",
+  "Nombre": "Briceño - Tunja - Sogamoso",
+  "Latitud": 5.806803,
+  "Longitud": -73.027743,
+  "PR": 0,
+  "Municipio": "DUITAMA",
+  "Departamento": "BOYACÁ",
+  "divipola": 15238
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5101"
+  },
+  "ID_MT": "3G001",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.144165,
+  "Fallecidos": 1,
+  "GiPValue": 0.03202,
+  "Tramo": "Tunja - Duitama",
+  "Nombre": "Briceño - Tunja - Sogamoso",
+  "Latitud": 5.803867,
+  "Longitud": -73.040309,
+  "PR": 47,
+  "Municipio": "DUITAMA",
+  "Departamento": "BOYACÁ",
+  "divipola": 15238
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5102"
+  },
+  "ID_MT": "3G001",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.144165,
+  "Fallecidos": 9,
+  "GiPValue": 0.03202,
+  "Tramo": "Tunja - Duitama",
+  "Nombre": "Briceño - Tunja - Sogamoso",
+  "Latitud": 5.798637,
+  "Longitud": -73.042764,
+  "PR": 45,
+  "Municipio": "DUITAMA",
+  "Departamento": "BOYACÁ",
+  "divipola": 15238
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5103"
+  },
+  "ID_MT": "3G001",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Bogotá - Tunja",
+  "Nombre": "Briceño - Tunja - Sogamoso",
+  "Latitud": 5.00172,
+  "Longitud": -73.865477,
+  "PR": 32,
+  "Municipio": "GACHANCIPÁ",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25295
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5104"
+  },
+  "ID_MT": "3G001",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.283962,
+  "Fallecidos": 1,
+  "GiPValue": 0.022374,
+  "Tramo": "Bogotá - Tunja",
+  "Nombre": "Briceño - Tunja - Sogamoso",
+  "Latitud": 4.975713,
+  "Longitud": -73.89282,
+  "PR": 28,
+  "Municipio": "GACHANCIPÁ",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25295
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5105"
+  },
+  "ID_MT": "3G001",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.454862,
+  "Fallecidos": 13,
+  "GiPValue": 0.014094,
+  "Tramo": "Bogotá - Tunja",
+  "Nombre": "Briceño - Tunja - Sogamoso",
+  "Latitud": 4.969318,
+  "Longitud": -73.902877,
+  "PR": 26,
+  "Municipio": "TOCANCIPÁ",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25817
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5106"
+  },
+  "ID_MT": "3G001",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.138462,
+  "Fallecidos": 9,
+  "GiPValue": 0.001698,
+  "Tramo": "Bogotá - Tunja",
+  "Nombre": "Briceño - Tunja - Sogamoso",
+  "Latitud": 4.963642,
+  "Longitud": -73.916891,
+  "PR": "sd",
+  "Municipio": "TOCANCIPÁ",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25817
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5107"
+  },
+  "ID_MT": "4G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.725132,
+  "Fallecidos": 2,
+  "GiPValue": 0.084504,
+  "Tramo": "Villavicencio-Puente Arimena",
+  "Nombre": "IP Malla Vial del Meta",
+  "Latitud": 4.095555,
+  "Longitud": -72.948075,
+  "PR": 3,
+  "Municipio": "PUERTO LÓPEZ",
+  "Departamento": "META",
+  "divipola": 50573
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5108"
+  },
+  "ID_MT": "4G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.725132,
+  "Fallecidos": 2,
+  "GiPValue": 0.084504,
+  "Tramo": "Villavicencio-Puente Arimena",
+  "Nombre": "IP Malla Vial del Meta",
+  "Latitud": 4.078851,
+  "Longitud": -72.973513,
+  "PR": 77,
+  "Municipio": "PUERTO LÓPEZ",
+  "Departamento": "META",
+  "divipola": 50573
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5109"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "Bogotá - Barbosa",
+  "Latitud": 5.084119,
+  "Longitud": -73.928809,
+  "PR": 38,
+  "Municipio": "NEMOCÓN",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25486
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc510a"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.995412,
+  "Fallecidos": 13,
+  "GiPValue": 0.002741,
+  "Tramo": "Puerto Araújo-Cimitarra",
+  "Latitud": 6.345133,
+  "Longitud": -73.960097,
+  "PR": 27,
+  "Municipio": "CIMITARRA",
+  "Departamento": "SANTANDER",
+  "divipola": 68190
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc510b"
+  },
+  "ID_MT": "1G002",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.625762,
+  "Fallecidos": 12,
+  "GiPValue": 0.008646,
+  "Tramo": "Bogotá - Villeta",
+  "Nombre": "Bogotá – La Vega – Villeta (BVLPV)",
+  "Latitud": 4.986548,
+  "Longitud": -74.326199,
+  "PR": 93,
+  "Municipio": "LA VEGA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25402
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc510c"
+  },
+  "ID_MT": "1G002",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.967562,
+  "Fallecidos": 10,
+  "GiPValue": 0.003002,
+  "Tramo": "Bogotá - Villeta",
+  "Nombre": "Bogotá – La Vega – Villeta (BVLPV)",
+  "Latitud": 4.995154,
+  "Longitud": -74.338199,
+  "PR": 91,
+  "Municipio": "LA VEGA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25402
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc510d"
+  },
+  "ID_MT": "1G002",
+  "ENTIDAD": "ANI",
+  "GiZScore": 4.676561,
+  "Fallecidos": 10,
+  "GiPValue": 0.000003,
+  "Tramo": "Bogotá - Villeta",
+  "Nombre": "Bogotá – La Vega – Villeta (BVLPV)",
+  "Latitud": 5.024027,
+  "Longitud": -74.470159,
+  "PR": 67,
+  "Municipio": "VILLETA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25875
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc510e"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 3.399433,
+  "Fallecidos": 12,
+  "GiPValue": 0.000675,
+  "Latitud": 5.012001,
+  "Longitud": -74.480712,
+  "PR": 64,
+  "Municipio": "VILLETA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25875
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc510f"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 3.818008,
+  "Fallecidos": 14,
+  "GiPValue": 0.000135,
+  "Tramo": "Villeta-Honda",
+  "Latitud": 5.024411,
+  "Longitud": -74.491387,
+  "PR": 62,
+  "Municipio": "VILLETA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25875
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5110"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.93442,
+  "Fallecidos": 7,
+  "GiPValue": 0.053062,
+  "Tramo": "Villeta-Honda",
+  "Latitud": 5.060263,
+  "Longitud": -74.575627,
+  "PR": 36,
+  "Municipio": "GUADUAS",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25320
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5111"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.454862,
+  "Fallecidos": 8,
+  "GiPValue": 0.014094,
+  "Tramo": "Villeta-Honda",
+  "Latitud": 5.06123,
+  "Longitud": -74.584733,
+  "PR": 34,
+  "Municipio": "GUADUAS",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25320
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5112"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.143707,
+  "Fallecidos": 8,
+  "GiPValue": 0.032056,
+  "Tramo": "Villeta-Honda",
+  "Latitud": 5.064345,
+  "Longitud": -74.593076,
+  "PR": 34,
+  "Municipio": "GUADUAS",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25320
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5113"
+  },
+  "ID_MT": "1G007",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.995412,
+  "Fallecidos": 13,
+  "GiPValue": 0.002741,
+  "Tramo": "Bogotá - Mosquera",
+  "Nombre": "Bogotá (Fontibón) – Faca – Los Alpes",
+  "Latitud": 4.696039,
+  "Longitud": -74.173057,
+  "PR": 72,
+  "Municipio": "MOSQUERA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25473
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5114"
+  },
+  "ID_MT": "1G007",
+  "ENTIDAD": "ANI",
+  "GiZScore": 6.546778,
+  "Fallecidos": 25,
+  "GiPValue": 0,
+  "Tramo": "Bogotá - Mosquera",
+  "Nombre": "Bogotá (Fontibón) – Faca – Los Alpes",
+  "Latitud": 4.697829,
+  "Longitud": -74.198878,
+  "PR": 69,
+  "Municipio": "FUNZA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25286
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5115"
+  },
+  "ID_MT": "1G007",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.138462,
+  "Fallecidos": 5,
+  "GiPValue": 0.001698,
+  "Tramo": "Mosquera - Facatativa - Los Andes",
+  "Nombre": "Bogotá (Fontibón) – Faca – Los Alpes",
+  "Latitud": 4.774403,
+  "Longitud": -74.317396,
+  "PR": 52,
+  "Municipio": "MADRID",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25430
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5116"
+  },
+  "ID_MT": "1G007",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.454862,
+  "Fallecidos": 16,
+  "GiPValue": 0.014094,
+  "Tramo": "Mosquera - Facatativa - Los Andes",
+  "Nombre": "Bogotá (Fontibón) – Faca – Los Alpes",
+  "Latitud": 4.780969,
+  "Longitud": -74.325839,
+  "PR": 52,
+  "Municipio": "FACATATIVÁ",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25269
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5117"
+  },
+  "ID_MT": "1G007",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.942162,
+  "Fallecidos": 2,
+  "GiPValue": 0.052117,
+  "Tramo": "Mosquera - Facatativa - Los Andes",
+  "Nombre": "Bogotá (Fontibón) – Faca – Los Alpes",
+  "Latitud": 4.788334,
+  "Longitud": -74.334441,
+  "PR": 51,
+  "Municipio": "FACATATIVÁ",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25269
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5118"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 3.328315,
+  "Fallecidos": 8,
+  "GiPValue": 0.000874,
+  "Tramo": "Mosquera - Funza",
+  "Latitud": 4.74712,
+  "Longitud": -74.168107,
+  "PR": "sd",
+  "Municipio": "FUNZA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25286
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5119"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 6.043761,
+  "Fallecidos": 19,
+  "GiPValue": 0,
+  "Tramo": "Mosquera - Funza",
+  "Latitud": 4.737457,
+  "Longitud": -74.180797,
+  "PR": "sd",
+  "Municipio": "FUNZA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25286
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc511a"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 7.752761,
+  "Fallecidos": 17,
+  "GiPValue": 0,
+  "Tramo": "Mosquera - Funza",
+  "Latitud": 4.726685,
+  "Longitud": -74.191834,
+  "PR": "sd",
+  "Municipio": "FUNZA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25286
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc511b"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 6.120171,
+  "Fallecidos": 18,
+  "GiPValue": 0,
+  "Tramo": "Mosquera - Funza",
+  "Latitud": 4.716745,
+  "Longitud": -74.204249,
+  "PR": "sd",
+  "Municipio": "FUNZA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25286
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc511c"
+  },
+  "ID_MT": "4G032",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.93442,
+  "Fallecidos": 3,
+  "GiPValue": 0.053062,
+  "Tramo": "Girardot - Bogotá",
+  "Nombre": "IP  –  Ampliación a Tercer Carril Doble Calzada Bogotá - Girardot",
+  "Latitud": 4.539306,
+  "Longitud": -74.261896,
+  "PR": 111,
+  "Municipio": "SIBATÉ",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25740
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc511d"
+  },
+  "ID_MT": "4G032",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.942162,
+  "Fallecidos": 2,
+  "GiPValue": 0.052117,
+  "Tramo": "Girardot - Bogotá",
+  "Nombre": "IP  –  Ampliación a Tercer Carril Doble Calzada Bogotá - Girardot",
+  "Latitud": 4.536913,
+  "Longitud": -74.281327,
+  "PR": 107,
+  "Municipio": "SOACHA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25754
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc511e"
+  },
+  "ID_MT": "4G032",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Girardot - Bogotá",
+  "Nombre": "IP  –  Ampliación a Tercer Carril Doble Calzada Bogotá - Girardot",
+  "Latitud": 4.529922,
+  "Longitud": -74.339426,
+  "PR": 98,
+  "Municipio": "GRANADA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25312
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc511f"
+  },
+  "ID_MT": "4G032",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.725132,
+  "Fallecidos": 6,
+  "GiPValue": 0.084504,
+  "Tramo": "Girardot - Bogotá",
+  "Nombre": "IP  –  Ampliación a Tercer Carril Doble Calzada Bogotá - Girardot",
+  "Latitud": 4.518838,
+  "Longitud": -74.357806,
+  "PR": 96,
+  "Municipio": "GRANADA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25312
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5120"
+  },
+  "ID_MT": "4G032",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.725132,
+  "Fallecidos": 8,
+  "GiPValue": 0.084504,
+  "Tramo": "Girardot - Bogotá",
+  "Nombre": "IP  –  Ampliación a Tercer Carril Doble Calzada Bogotá - Girardot",
+  "Latitud": 4.504559,
+  "Longitud": -74.364744,
+  "PR": 94,
+  "Municipio": "GRANADA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25312
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5121"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.113062,
+  "Fallecidos": 9,
+  "GiPValue": 0.034595,
+  "Tramo": "Calarcá - Ibagué",
+  "Latitud": 4.527243,
+  "Longitud": -75.60247,
+  "PR": 10,
+  "Municipio": "CALARCÁ",
+  "Departamento": "QUINDÍO",
+  "divipola": 63130
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5122"
+  },
+  "ID_MT": "4G032",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.562283,
+  "Fallecidos": 10,
+  "GiPValue": 0.010399,
+  "Tramo": "Girardot - Bogotá",
+  "Nombre": "IP  –  Ampliación a Tercer Carril Doble Calzada Bogotá - Girardot",
+  "Latitud": 4.425913,
+  "Longitud": -74.390199,
+  "PR": 82,
+  "Municipio": "SILVANIA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25743
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5123"
+  },
+  "ID_MT": "4G032",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.454862,
+  "Fallecidos": 8,
+  "GiPValue": 0.014094,
+  "Tramo": "Girardot - Bogotá",
+  "Nombre": "IP  –  Ampliación a Tercer Carril Doble Calzada Bogotá - Girardot",
+  "Latitud": 4.407575,
+  "Longitud": -74.391368,
+  "PR": 80,
+  "Municipio": "SILVANIA",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25743
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5124"
+  },
+  "ID_MT": "4G032",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.77157,
+  "Fallecidos": 3,
+  "GiPValue": 0.005579,
+  "Tramo": "Girardot - Bogotá",
+  "Nombre": "IP  –  Ampliación a Tercer Carril Doble Calzada Bogotá - Girardot",
+  "Latitud": 4.375719,
+  "Longitud": -74.388125,
+  "PR": 75,
+  "Municipio": "FUSAGASUGÁ",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25290
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5125"
+  },
+  "ID_MT": "4G032",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.77157,
+  "Fallecidos": 16,
+  "GiPValue": 0.005579,
+  "Tramo": "Girardot - Bogotá",
+  "Nombre": "IP  –  Ampliación a Tercer Carril Doble Calzada Bogotá - Girardot",
+  "Latitud": 4.361716,
+  "Longitud": -74.37977,
+  "PR": 71,
+  "Municipio": "FUSAGASUGÁ",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25290
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5126"
+  },
+  "ID_MT": "4G032",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.883253,
+  "Fallecidos": 16,
+  "GiPValue": 0.000103,
+  "Tramo": "Girardot - Bogotá",
+  "Nombre": "IP  –  Ampliación a Tercer Carril Doble Calzada Bogotá - Girardot",
+  "Latitud": 4.310412,
+  "Longitud": -74.439811,
+  "PR": 61,
+  "Municipio": "FUSAGASUGÁ",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25290
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5127"
+  },
+  "ID_MT": "4G032",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Girardot - Bogotá",
+  "Nombre": "IP  –  Ampliación a Tercer Carril Doble Calzada Bogotá - Girardot",
+  "Latitud": 4.289098,
+  "Longitud": -74.466172,
+  "PR": 57,
+  "Municipio": "FUSAGASUGÁ",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25290
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5128"
+  },
+  "ID_MT": "4G032",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.190145,
+  "Fallecidos": 9,
+  "GiPValue": 0.001422,
+  "Tramo": "Girardot - Bogotá",
+  "Nombre": "IP  –  Ampliación a Tercer Carril Doble Calzada Bogotá - Girardot",
+  "Latitud": 4.26336,
+  "Longitud": -74.518687,
+  "PR": 49,
+  "Municipio": "FUSAGASUGÁ",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25290
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5129"
+  },
+  "ID_MT": "4G032",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.796662,
+  "Fallecidos": 12,
+  "GiPValue": 0.005163,
+  "Tramo": "Girardot - Bogotá",
+  "Nombre": "IP  –  Ampliación a Tercer Carril Doble Calzada Bogotá - Girardot",
+  "Latitud": 4.260434,
+  "Longitud": -74.535832,
+  "PR": 43,
+  "Municipio": "FUSAGASUGÁ",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25290
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc512a"
+  },
+  "ID_MT": "4G032",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.143707,
+  "Fallecidos": 4,
+  "GiPValue": 0.032056,
+  "Tramo": "Girardot - Bogotá",
+  "Nombre": "IP  –  Ampliación a Tercer Carril Doble Calzada Bogotá - Girardot",
+  "Latitud": 4.254834,
+  "Longitud": -74.53858,
+  "PR": 43,
+  "Municipio": "FUSAGASUGÁ",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25290
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc512b"
+  },
+  "ID_MT": "3G009",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.725132,
+  "Fallecidos": 7,
+  "GiPValue": 0.084504,
+  "Tramo": "Ibagué- Girardot",
+  "Nombre": "Girardot – Ibagué – Cajamarca",
+  "Latitud": 4.233387,
+  "Longitud": -74.9046,
+  "PR": "sd",
+  "Municipio": "ESPINAL",
+  "Departamento": "TOLIMA",
+  "divipola": 73268
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc512c"
+  },
+  "ID_MT": "3G009",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.995412,
+  "Fallecidos": 13,
+  "GiPValue": 0.002741,
+  "Tramo": "Ibagué- Girardot",
+  "Nombre": "Girardot – Ibagué – Cajamarca",
+  "Latitud": 4.374953,
+  "Longitud": -75.117841,
+  "PR": 23,
+  "Municipio": "IBAGUÉ",
+  "Departamento": "TOLIMA",
+  "divipola": 73001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc512d"
+  },
+  "ID_MT": "4G015",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Ibagué - Venadillo - Lérida",
+  "Nombre": "IP  –  Cambao Manizales",
+  "Latitud": 4.464096,
+  "Longitud": -75.033862,
+  "PR": 13,
+  "Municipio": "ALVARADO",
+  "Departamento": "TOLIMA",
+  "divipola": 73026
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc512e"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Puerto Salgar - Barranca",
+  "Latitud": 5.603046,
+  "Longitud": -74.621779,
+  "PR": 52,
+  "Municipio": "PUERTO SALGAR",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25572
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc512f"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "Puerto Salgar - Barranca",
+  "Latitud": 6.961981,
+  "Longitud": -73.702929,
+  "PR": 129,
+  "Municipio": "BARRANCABERMEJA",
+  "Departamento": "SANTANDER",
+  "divipola": 68081
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5130"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.179201,
+  "Fallecidos": 17,
+  "GiPValue": 0.000029,
+  "Tramo": "Barranca - Aguachica",
+  "Latitud": 7.384705,
+  "Longitud": -73.549463,
+  "PR": 36,
+  "Municipio": "SABANA DE TORRES",
+  "Departamento": "SANTANDER",
+  "divipola": 68655
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5131"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "Barranca - Aguachica",
+  "Latitud": 7.428684,
+  "Longitud": -73.545312,
+  "PR": 40,
+  "Municipio": "SABANA DE TORRES",
+  "Departamento": "SANTANDER",
+  "divipola": 68655
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5132"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 6.250831,
+  "Fallecidos": 24,
+  "GiPValue": 0,
+  "Tramo": "Barranca - Aguachica",
+  "Latitud": 7.733236,
+  "Longitud": -73.435159,
+  "PR": 82,
+  "Municipio": "SAN ALBERTO",
+  "Departamento": "CESAR",
+  "divipola": 20710
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5133"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 3.291359,
+  "Fallecidos": 14,
+  "GiPValue": 0.000997,
+  "Tramo": "Barranca - Aguachica",
+  "Latitud": 7.790466,
+  "Longitud": -73.403877,
+  "PR": 3,
+  "Municipio": "SAN ALBERTO",
+  "Departamento": "CESAR",
+  "divipola": 20710
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5134"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.292183,
+  "Fallecidos": 1,
+  "GiPValue": 0.021895,
+  "Latitud": 7.080771,
+  "Longitud": -73.185884,
+  "PR": 67,
+  "Municipio": "GIRÓN",
+  "Departamento": "SANTANDER",
+  "divipola": 68307
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5135"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.860912,
+  "Fallecidos": 13,
+  "GiPValue": 0.004224,
+  "Latitud": 7.073695,
+  "Longitud": -73.179794,
+  "PR": 69,
+  "Municipio": "GIRÓN",
+  "Departamento": "SANTANDER",
+  "divipola": 68307
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5136"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 3.476334,
+  "Fallecidos": 6,
+  "GiPValue": 0.000508,
+  "Latitud": 7.0724,
+  "Longitud": -73.164142,
+  "PR": 9,
+  "Municipio": "GIRÓN",
+  "Departamento": "SANTANDER",
+  "divipola": 68307
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5137"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 3.309362,
+  "Fallecidos": 9,
+  "GiPValue": 0.000935,
+  "Tramo": "Piedecuesta-Girón",
+  "Latitud": 7.064479,
+  "Longitud": -73.166287,
+  "PR": 8,
+  "Municipio": "GIRÓN",
+  "Departamento": "SANTANDER",
+  "divipola": 68307
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5138"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.179201,
+  "Fallecidos": 17,
+  "GiPValue": 0.000029,
+  "Tramo": "Barbosa - Bucaramanga",
+  "Latitud": 7.06389,
+  "Longitud": -73.095517,
+  "PR": 1,
+  "Municipio": "FLORIDABLANCA",
+  "Departamento": "SANTANDER",
+  "divipola": 68276
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5139"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 5.658936,
+  "Fallecidos": 22,
+  "GiPValue": 0,
+  "Tramo": "Barbosa - Bucaramanga",
+  "Latitud": 7.045646,
+  "Longitud": -73.078284,
+  "PR": 87,
+  "Municipio": "FLORIDABLANCA",
+  "Departamento": "SANTANDER",
+  "divipola": 68276
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc513a"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "Barbosa - Bucaramanga",
+  "Latitud": 7.02063,
+  "Longitud": -73.06025,
+  "PR": 84,
+  "Municipio": "PIEDECUESTA",
+  "Departamento": "SANTANDER",
+  "divipola": 68547
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc513b"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.027295,
+  "Fallecidos": 16,
+  "GiPValue": 0.000056,
+  "Tramo": "Barbosa - Bucaramanga",
+  "Latitud": 6.99008,
+  "Longitud": -73.044162,
+  "PR": 79,
+  "Municipio": "PIEDECUESTA",
+  "Departamento": "SANTANDER",
+  "divipola": 68547
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc513c"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.027295,
+  "Fallecidos": 9,
+  "GiPValue": 0.000056,
+  "Tramo": "Barbosa - Bucaramanga",
+  "Latitud": 6.972442,
+  "Longitud": -73.044608,
+  "PR": 78,
+  "Municipio": "PIEDECUESTA",
+  "Departamento": "SANTANDER",
+  "divipola": 68547
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc513d"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 3.309362,
+  "Fallecidos": 7,
+  "GiPValue": 0.000935,
+  "Tramo": "Variante Pereira",
+  "Latitud": 4.813499,
+  "Longitud": -75.801036,
+  "PR": 5,
+  "Municipio": "PEREIRA",
+  "Departamento": "RISARALDA",
+  "divipola": 66001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc513e"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.440202,
+  "Fallecidos": 14,
+  "GiPValue": 0.014679,
+  "Tramo": "Variante Pereira",
+  "Latitud": 4.810408,
+  "Longitud": -75.810555,
+  "PR": 8,
+  "Municipio": "PEREIRA",
+  "Departamento": "RISARALDA",
+  "divipola": 66001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc513f"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "Barranca - Aguachica",
+  "Latitud": 7.831367,
+  "Longitud": -73.425267,
+  "PR": 7,
+  "Municipio": "SAN ALBERTO",
+  "Departamento": "CESAR",
+  "divipola": 20710
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5140"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Barranca - Aguachica",
+  "Latitud": 7.896122,
+  "Longitud": -73.45797,
+  "PR": 15,
+  "Municipio": "SAN MARTÍN",
+  "Departamento": "CESAR",
+  "divipola": 20770
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5141"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "Barranca - Aguachica",
+  "Latitud": 7.963444,
+  "Longitud": -73.493668,
+  "PR": 23,
+  "Municipio": "SAN MARTÍN",
+  "Departamento": "CESAR",
+  "divipola": 20770
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5142"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.995412,
+  "Fallecidos": 13,
+  "GiPValue": 0.002741,
+  "Tramo": "Barranca - Aguachica",
+  "Latitud": 8.014307,
+  "Longitud": -73.520019,
+  "PR": 31,
+  "Municipio": "SAN MARTÍN",
+  "Departamento": "CESAR",
+  "divipola": 20770
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5143"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Barranca - Aguachica",
+  "Latitud": 8.07286,
+  "Longitud": -73.549345,
+  "PR": 37,
+  "Municipio": "RIO DE ORO",
+  "Departamento": "CESAR",
+  "divipola": 20614
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5144"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.893293,
+  "Fallecidos": 4,
+  "GiPValue": 0.003812,
+  "Latitud": 7.928047,
+  "Longitud": -72.598278,
+  "PR": 74,
+  "Municipio": "EL ZULIA",
+  "Departamento": "NORTE DE SANTANDER",
+  "divipola": 54261
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5145"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.022182,
+  "Fallecidos": 24,
+  "GiPValue": 0.043158,
+  "Tramo": "El Zulia-Cúcuta",
+  "Latitud": 7.930199,
+  "Longitud": -72.590409,
+  "PR": 58,
+  "Municipio": "EL ZULIA",
+  "Departamento": "NORTE DE SANTANDER",
+  "divipola": 54261
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5146"
+  },
+  "ID_MT": "1G010",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.822062,
+  "Fallecidos": 1,
+  "GiPValue": 0.000132,
+  "Nombre": "Armenia -Pereira - Manizales",
+  "Latitud": 4.530654,
+  "Longitud": -75.634098,
+  "PR": 85,
+  "Municipio": "CALARCÁ",
+  "Departamento": "QUINDÍO",
+  "divipola": 63130
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5147"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.512465,
+  "Fallecidos": 21,
+  "GiPValue": 0.000006,
+  "Tramo": "Calarcá - Ibagué",
+  "Latitud": 4.529347,
+  "Longitud": -75.632733,
+  "PR": 86,
+  "Municipio": "CALARCÁ",
+  "Departamento": "QUINDÍO",
+  "divipola": 63130
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5148"
+  },
+  "ID_MT": "1G010",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.328315,
+  "Fallecidos": 9,
+  "GiPValue": 0.000874,
+  "Tramo": "La Paila - Calarcá",
+  "Nombre": "Armenia -Pereira - Manizales",
+  "Latitud": 4.528841,
+  "Longitud": -75.634918,
+  "PR": 85,
+  "Municipio": "CALARCÁ",
+  "Departamento": "QUINDÍO",
+  "divipola": 63130
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5149"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.512465,
+  "Fallecidos": 11,
+  "GiPValue": 0.000006,
+  "Tramo": "Calarcá - Ibagué",
+  "Latitud": 4.525523,
+  "Longitud": -75.620722,
+  "PR": 6,
+  "Municipio": "CALARCÁ",
+  "Departamento": "QUINDÍO",
+  "divipola": 63130
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc514a"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.113062,
+  "Fallecidos": 1,
+  "GiPValue": 0.034595,
+  "Tramo": "Calarcá - Ibagué",
+  "Latitud": 4.51878,
+  "Longitud": -75.606768,
+  "PR": 10,
+  "Municipio": "CALARCÁ",
+  "Departamento": "QUINDÍO",
+  "divipola": 63130
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc514b"
+  },
+  "ID_MT": "4G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Villavicencio-Puente Arimena",
+  "Nombre": "IP Malla Vial del Meta",
+  "Latitud": 4.061221,
+  "Longitud": -73.147511,
+  "PR": 55,
+  "Municipio": "PUERTO LÓPEZ",
+  "Departamento": "META",
+  "divipola": 50573
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc514c"
+  },
+  "ID_MT": "4G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.60872,
+  "Fallecidos": 14,
+  "GiPValue": 0.000308,
+  "Tramo": "Villavicencio-Puente Arimena",
+  "Nombre": "IP Malla Vial del Meta",
+  "Latitud": 4.108613,
+  "Longitud": -73.600597,
+  "PR": 1,
+  "Municipio": "VILLAVICENCIO",
+  "Departamento": "META",
+  "divipola": 50001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc514d"
+  },
+  "ID_MT": "4G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.60872,
+  "Fallecidos": 9,
+  "GiPValue": 0.000308,
+  "Tramo": "Villavicencio-Puente Arimena",
+  "Nombre": "IP Malla Vial del Meta",
+  "Latitud": 4.119353,
+  "Longitud": -73.613572,
+  "PR": "sd",
+  "Municipio": "VILLAVICENCIO",
+  "Departamento": "META",
+  "divipola": 50001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc514e"
+  },
+  "ID_MT": "1G009",
+  "ENTIDAD": "ANI",
+  "GiZScore": 4.198048,
+  "Fallecidos": 20,
+  "GiPValue": 0.000027,
+  "Tramo": "Medellín - Santuario",
+  "Nombre": "Desarrollo Vial del Oriente de Medellín – DEVIMED",
+  "Latitud": 6.310587,
+  "Longitud": -75.554145,
+  "PR": 0,
+  "Municipio": "BELLO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5088
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc514f"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 4.198048,
+  "Fallecidos": 8,
+  "GiPValue": 0.000027,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.311688,
+  "Longitud": -75.556634,
+  "PR": 0,
+  "Municipio": "BELLO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5088
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5150"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 4.057085,
+  "Fallecidos": 18,
+  "GiPValue": 0.00005,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.319209,
+  "Longitud": -75.554685,
+  "PR": 1,
+  "Municipio": "BELLO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5088
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5151"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.773603,
+  "Fallecidos": 4,
+  "GiPValue": 0.005544,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.328732,
+  "Longitud": -75.551494,
+  "PR": "sd",
+  "Municipio": "BELLO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5088
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5152"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.872332,
+  "Fallecidos": 2,
+  "GiPValue": 0.004075,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.333141,
+  "Longitud": -75.546963,
+  "PR": "sd",
+  "Municipio": "BELLO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5088
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5153"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 1.774034,
+  "Fallecidos": 7,
+  "GiPValue": 0.076058,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.335769,
+  "Longitud": -75.544387,
+  "PR": "sd",
+  "Municipio": "BELLO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5088
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5154"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.405296,
+  "Fallecidos": 8,
+  "GiPValue": 0.016159,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.338664,
+  "Longitud": -75.541278,
+  "PR": "sd",
+  "Municipio": "BELLO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5088
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5155"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.747471,
+  "Fallecidos": 5,
+  "GiPValue": 0.006006,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.341784,
+  "Longitud": -75.535189,
+  "PR": "sd",
+  "Municipio": "BELLO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5088
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5156"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 3.258129,
+  "Fallecidos": 10,
+  "GiPValue": 0.001121,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.34504,
+  "Longitud": -75.527145,
+  "PR": "sd",
+  "Municipio": "BELLO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5088
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5157"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 5.992653,
+  "Fallecidos": 8,
+  "GiPValue": 0,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.347716,
+  "Longitud": -75.520433,
+  "PR": "sd",
+  "Municipio": "BELLO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5088
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5158"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 5.531061,
+  "Fallecidos": 29,
+  "GiPValue": 0,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.351463,
+  "Longitud": -75.510076,
+  "PR": "sd",
+  "Municipio": "COPACABANA",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5212
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5159"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 4.505661,
+  "Fallecidos": 4,
+  "GiPValue": 0.000007,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.356767,
+  "Longitud": -75.500166,
+  "PR": "sd",
+  "Municipio": "COPACABANA",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5212
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc515a"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 1.942162,
+  "Fallecidos": 1,
+  "GiPValue": 0.052117,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.390938,
+  "Longitud": -75.445768,
+  "PR": "sd",
+  "Municipio": "GIRARDOTA",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5308
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc515b"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.283962,
+  "Fallecidos": 13,
+  "GiPValue": 0.022374,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.397619,
+  "Longitud": -75.436746,
+  "PR": "sd",
+  "Municipio": "GIRARDOTA",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5308
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc515c"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.796662,
+  "Fallecidos": 8,
+  "GiPValue": 0.005163,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.405591,
+  "Longitud": -75.426525,
+  "PR": "sd",
+  "Municipio": "GIRARDOTA",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5308
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc515d"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 1.771262,
+  "Fallecidos": 4,
+  "GiPValue": 0.076517,
+  "Tramo": "El Hatillo - Girardota - Copacabana - Bello - Med*",
+  "Latitud": 6.411562,
+  "Longitud": -75.415101,
+  "PR": "sd",
+  "Municipio": "BARBOSA",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5079
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc515e"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Latitud": 6.433996,
+  "Longitud": -75.337423,
+  "PR": 9,
+  "Municipio": "BARBOSA",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5079
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc515f"
+  },
+  "ID_MT": "1G009",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.848127,
+  "Fallecidos": 6,
+  "GiPValue": 0.064584,
+  "Tramo": "Medellín - Santuario",
+  "Nombre": "Desarrollo Vial del Oriente de Medellín – DEVIMED",
+  "Latitud": 6.248448,
+  "Longitud": -75.424514,
+  "PR": 27,
+  "Municipio": "GUARNE",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5318
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5160"
+  },
+  "ID_MT": "1G009",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.771262,
+  "Fallecidos": 5,
+  "GiPValue": 0.076517,
+  "Tramo": "Medellín - Santuario",
+  "Nombre": "Desarrollo Vial del Oriente de Medellín – DEVIMED",
+  "Latitud": 6.252809,
+  "Longitud": -75.429236,
+  "PR": 25,
+  "Municipio": "GUARNE",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5318
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5161"
+  },
+  "ID_MT": "1G009",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.33129,
+  "Fallecidos": 5,
+  "GiPValue": 0.019738,
+  "Tramo": "Medellín - Santuario",
+  "Nombre": "Desarrollo Vial del Oriente de Medellín – DEVIMED",
+  "Latitud": 6.32795,
+  "Longitud": -75.480226,
+  "PR": 15,
+  "Municipio": "COPACABANA",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5212
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5162"
+  },
+  "ID_MT": "1G009",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.33129,
+  "Fallecidos": 1,
+  "GiPValue": 0.019738,
+  "Tramo": "Medellín - Santuario",
+  "Nombre": "Desarrollo Vial del Oriente de Medellín – DEVIMED",
+  "Latitud": 6.328481,
+  "Longitud": -75.48361,
+  "PR": 15,
+  "Municipio": "COPACABANA",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5212
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5163"
+  },
+  "ID_MT": "1G009",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.019913,
+  "Fallecidos": 9,
+  "GiPValue": 0.043392,
+  "Tramo": "Medellín - Santuario",
+  "Nombre": "Desarrollo Vial del Oriente de Medellín – DEVIMED",
+  "Latitud": 6.323438,
+  "Longitud": -75.539697,
+  "PR": 2,
+  "Municipio": "BELLO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5088
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5164"
+  },
+  "ID_MT": "1G009",
+  "ENTIDAD": "ANI",
+  "GiZScore": 4.074447,
+  "Fallecidos": 1,
+  "GiPValue": 0.000046,
+  "Tramo": "Medellín - Santuario",
+  "Nombre": "Desarrollo Vial del Oriente de Medellín – DEVIMED",
+  "Latitud": 6.322096,
+  "Longitud": -75.544771,
+  "PR": 1,
+  "Municipio": "BELLO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5088
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5165"
+  },
+  "ID_MT": "1G009",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.766984,
+  "Fallecidos": 1,
+  "GiPValue": 0.000165,
+  "Tramo": "Medellín - Santuario",
+  "Nombre": "Desarrollo Vial del Oriente de Medellín – DEVIMED",
+  "Latitud": 6.31862,
+  "Longitud": -75.546815,
+  "PR": 1,
+  "Municipio": "BELLO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5088
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5166"
+  },
+  "ID_MT": "1G009",
+  "ENTIDAD": "ANI",
+  "GiZScore": 4.057085,
+  "Fallecidos": 4,
+  "GiPValue": 0.00005,
+  "Tramo": "Medellín - Santuario",
+  "Nombre": "Desarrollo Vial del Oriente de Medellín – DEVIMED",
+  "Latitud": 6.313718,
+  "Longitud": -75.548768,
+  "PR": 0,
+  "Municipio": "BELLO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5088
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5167"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Buga- La Victoria",
+  "Latitud": 4.316067,
+  "Longitud": -76.070563,
+  "PR": 21,
+  "Municipio": "ZARZAL",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76895
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5168"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 3.883253,
+  "Fallecidos": 16,
+  "GiPValue": 0.000103,
+  "Tramo": "Buga- La Victoria",
+  "Latitud": 4.357573,
+  "Longitud": -76.068876,
+  "PR": 26,
+  "Municipio": "ZARZAL",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76895
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5169"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.781367,
+  "Fallecidos": 17,
+  "GiPValue": 0.005413,
+  "Tramo": "Viterbo-Ansermanuevo",
+  "Latitud": 4.744053,
+  "Longitud": -75.911907,
+  "PR": "sd",
+  "Municipio": "CARTAGO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76147
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc516a"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.777049,
+  "Fallecidos": 1,
+  "GiPValue": 0.07556,
+  "Tramo": "La Victoria-La Virginia",
+  "Latitud": 4.735231,
+  "Longitud": -75.903363,
+  "PR": 76,
+  "Municipio": "CARTAGO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76147
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc516b"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.662108,
+  "Fallecidos": 2,
+  "GiPValue": 0.096491,
+  "Latitud": 4.73792,
+  "Longitud": -75.898956,
+  "PR": 2,
+  "Municipio": "CARTAGO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76147
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc516c"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 4.771095,
+  "Fallecidos": 19,
+  "GiPValue": 0.000002,
+  "Tramo": "Buga- La Victoria",
+  "Latitud": 4.168398,
+  "Longitud": -76.173499,
+  "PR": 0,
+  "Municipio": "ANDALUCÍA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76036
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc516d"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 4.179201,
+  "Fallecidos": 17,
+  "GiPValue": 0.000029,
+  "Tramo": "Buga- La Victoria",
+  "Latitud": 4.037479,
+  "Longitud": -76.210181,
+  "PR": 87,
+  "Municipio": "SAN PEDRO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76670
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc516e"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 5.954884,
+  "Fallecidos": 23,
+  "GiPValue": 0,
+  "Tramo": "Buga- La Victoria",
+  "Latitud": 4.000509,
+  "Longitud": -76.229883,
+  "PR": 82,
+  "Municipio": "SAN PEDRO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76670
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc516f"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.143707,
+  "Fallecidos": 9,
+  "GiPValue": 0.032056,
+  "Tramo": "Buga- La Victoria",
+  "Latitud": 3.975317,
+  "Longitud": -76.248638,
+  "PR": 78,
+  "Municipio": "SAN PEDRO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76670
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5170"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 3.651162,
+  "Fallecidos": 7,
+  "GiPValue": 0.000261,
+  "Tramo": "Buga- La Victoria",
+  "Latitud": 3.964974,
+  "Longitud": -76.261151,
+  "PR": "sd",
+  "Municipio": "SAN PEDRO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76670
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5171"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 4.334761,
+  "Fallecidos": 14,
+  "GiPValue": 0.000015,
+  "Tramo": "Buga- La Victoria",
+  "Latitud": 3.952215,
+  "Longitud": -76.27109,
+  "PR": 75,
+  "Municipio": "BUGA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76111
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5172"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 4.163861,
+  "Fallecidos": 13,
+  "GiPValue": 0.000031,
+  "Tramo": "Buga- La Victoria",
+  "Latitud": 3.938814,
+  "Longitud": -76.279742,
+  "PR": 73,
+  "Municipio": "BUGA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76111
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5173"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.967562,
+  "Fallecidos": 6,
+  "GiPValue": 0.003002,
+  "Tramo": "Buga- La Victoria",
+  "Latitud": 3.928157,
+  "Longitud": -76.28615,
+  "PR": 71,
+  "Municipio": "BUGA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76111
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5174"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.113062,
+  "Fallecidos": 7,
+  "GiPValue": 0.034595,
+  "Tramo": "Buga- La Victoria",
+  "Latitud": 3.921209,
+  "Longitud": -76.29417,
+  "PR": 70,
+  "Municipio": "BUGA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76111
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5175"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.283962,
+  "Fallecidos": 8,
+  "GiPValue": 0.022374,
+  "Tramo": "Buga- La Victoria",
+  "Latitud": 3.909898,
+  "Longitud": -76.306519,
+  "PR": 68,
+  "Municipio": "BUGA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76111
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5176"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 1.848127,
+  "Fallecidos": 7,
+  "GiPValue": 0.064584,
+  "Tramo": "Buga- La Victoria",
+  "Latitud": 3.897147,
+  "Longitud": -76.312121,
+  "PR": 118,
+  "Municipio": "BUGA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76111
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5177"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.198885,
+  "Fallecidos": 7,
+  "GiPValue": 0.027886,
+  "Tramo": "Loboguerrero - Buga",
+  "Latitud": 3.891756,
+  "Longitud": -76.317133,
+  "PR": 117,
+  "Municipio": "BUGA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76111
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5178"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.771095,
+  "Fallecidos": 19,
+  "GiPValue": 0.000002,
+  "Tramo": "Candelaria-Buga",
+  "Latitud": 3.835801,
+  "Longitud": -76.302609,
+  "PR": 59,
+  "Municipio": "BUGA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76111
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5179"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.655158,
+  "Fallecidos": 18,
+  "GiPValue": 0.000003,
+  "Tramo": "Candelaria-Buga",
+  "Latitud": 3.785473,
+  "Longitud": -76.319112,
+  "PR": 55,
+  "Municipio": "GUACARÍ",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76318
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc517a"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.655158,
+  "Fallecidos": 10,
+  "GiPValue": 0.000003,
+  "Tramo": "Candelaria-Buga",
+  "Latitud": 3.770634,
+  "Longitud": -76.326015,
+  "PR": 53,
+  "Municipio": "GUACARÍ",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76318
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc517b"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "Candelaria-Buga",
+  "Latitud": 3.745999,
+  "Longitud": -76.324502,
+  "PR": 49,
+  "Municipio": "GUACARÍ",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76318
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc517c"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.942162,
+  "Fallecidos": 8,
+  "GiPValue": 0.052117,
+  "Tramo": "Candelaria-Buga",
+  "Latitud": 3.684455,
+  "Longitud": -76.307218,
+  "PR": 42,
+  "Municipio": "EL CERRITO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76248
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc517d"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 7.138672,
+  "Fallecidos": 27,
+  "GiPValue": 0,
+  "Tramo": "Cali - Palmira",
+  "Latitud": 3.517906,
+  "Longitud": -76.366127,
+  "PR": 13,
+  "Municipio": "PALMIRA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76520
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc517e"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 5.067042,
+  "Fallecidos": 20,
+  "GiPValue": 0,
+  "Tramo": "Cali - Palmira",
+  "Latitud": 3.507193,
+  "Longitud": -76.413909,
+  "PR": 9,
+  "Municipio": "PALMIRA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76520
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc517f"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.771262,
+  "Fallecidos": 5,
+  "GiPValue": 0.076517,
+  "Latitud": 3.551248,
+  "Longitud": -76.477194,
+  "PR": "sd",
+  "Municipio": "PALMIRA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76520
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5180"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.562283,
+  "Fallecidos": 7,
+  "GiPValue": 0.010399,
+  "Tramo": "Cali-Dagua",
+  "Latitud": 3.451146,
+  "Longitud": -76.539785,
+  "PR": "sd",
+  "Municipio": "CALI",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5181"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.771262,
+  "Fallecidos": 11,
+  "GiPValue": 0.076517,
+  "Tramo": "Cali-Dagua",
+  "Latitud": 3.452461,
+  "Longitud": -76.553232,
+  "PR": "sd",
+  "Municipio": "CALI",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5182"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.454862,
+  "Fallecidos": 1,
+  "GiPValue": 0.014094,
+  "Tramo": "Cali-Dagua",
+  "Latitud": 3.451813,
+  "Longitud": -76.566716,
+  "PR": "sd",
+  "Municipio": "CALI",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5183"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.771262,
+  "Fallecidos": 11,
+  "GiPValue": 0.076517,
+  "Tramo": "Cali-Dagua",
+  "Latitud": 3.45358,
+  "Longitud": -76.571696,
+  "PR": "sd",
+  "Municipio": "CALI",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5184"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.625762,
+  "Fallecidos": 7,
+  "GiPValue": 0.008646,
+  "Tramo": "Cali-Dagua",
+  "Latitud": 3.461738,
+  "Longitud": -76.585255,
+  "PR": 9,
+  "Municipio": "CALI",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5185"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.93442,
+  "Fallecidos": 5,
+  "GiPValue": 0.053062,
+  "Tramo": "Cali-Dagua",
+  "Latitud": 3.659968,
+  "Longitud": -76.687838,
+  "PR": 48,
+  "Municipio": "DAGUA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76233
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5186"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.283962,
+  "Fallecidos": 9,
+  "GiPValue": 0.022374,
+  "Tramo": "Buenaventura-Citronela",
+  "Latitud": 3.886307,
+  "Longitud": -76.957788,
+  "PR": 16,
+  "Municipio": "BUENAVENTURA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76109
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5187"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.283962,
+  "Fallecidos": 6,
+  "GiPValue": 0.022374,
+  "Tramo": "Buenaventura-Citronela",
+  "Latitud": 3.877498,
+  "Longitud": -76.969294,
+  "PR": 15,
+  "Municipio": "BUENAVENTURA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76109
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5188"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 3.822062,
+  "Fallecidos": 7,
+  "GiPValue": 0.000132,
+  "Tramo": "Buenaventura-Citronela",
+  "Latitud": 3.870116,
+  "Longitud": -76.980122,
+  "PR": 12,
+  "Municipio": "BUENAVENTURA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76109
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5189"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.027295,
+  "Fallecidos": 18,
+  "GiPValue": 0.000056,
+  "Tramo": "Buenaventura-Citronela",
+  "Latitud": 3.867071,
+  "Longitud": -76.989767,
+  "PR": 12,
+  "Municipio": "BUENAVENTURA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76109
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc518a"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.113062,
+  "Fallecidos": 11,
+  "GiPValue": 0.034595,
+  "Tramo": "Loboguerrero - Buga",
+  "Latitud": 3.892281,
+  "Longitud": -76.330593,
+  "PR": 117,
+  "Municipio": "BUGA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76111
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc518b"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.771095,
+  "Fallecidos": 19,
+  "GiPValue": 0.000002,
+  "Tramo": "Aguachica  - San Roque",
+  "Latitud": 8.317272,
+  "Longitud": -73.59724,
+  "PR": 67,
+  "Municipio": "AGUACHICA",
+  "Departamento": "CESAR",
+  "divipola": 20011
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc518c"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.475148,
+  "Fallecidos": 18,
+  "GiPValue": 0.000008,
+  "Tramo": "Aguachica  - San Roque",
+  "Latitud": 8.615513,
+  "Longitud": -73.635588,
+  "PR": 1,
+  "Municipio": "LA GLORIA",
+  "Departamento": "CESAR",
+  "divipola": 20383
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc518d"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 3.291359,
+  "Fallecidos": 14,
+  "GiPValue": 0.000997,
+  "Tramo": "Aguachica  - San Roque",
+  "Latitud": 8.678751,
+  "Longitud": -73.655793,
+  "PR": 9,
+  "Municipio": "PELAYA",
+  "Departamento": "CESAR",
+  "divipola": 20550
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc518e"
+  },
+  "ID_MT": "3G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Carmen de Bolívar-Bosconia",
+  "Nombre": "Ruta del Sol 3",
+  "Latitud": 9.955669,
+  "Longitud": -73.917679,
+  "PR": 22,
+  "Municipio": "BOSCONIA",
+  "Departamento": "CESAR",
+  "divipola": 20060
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc518f"
+  },
+  "ID_MT": "3G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.883253,
+  "Fallecidos": 16,
+  "GiPValue": 0.000103,
+  "Tramo": "Bosconia - Cienaga",
+  "Nombre": "Ruta del Sol 3",
+  "Latitud": 9.93861,
+  "Longitud": -73.862205,
+  "PR": 84,
+  "Municipio": "BOSCONIA",
+  "Departamento": "CESAR",
+  "divipola": 20060
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5190"
+  },
+  "ID_MT": "3G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "San Roque - Bosconia",
+  "Nombre": "Ruta del Sol 3",
+  "Latitud": 9.607065,
+  "Longitud": -73.612902,
+  "PR": 38,
+  "Municipio": "EL PASO",
+  "Departamento": "CESAR",
+  "divipola": 20250
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5191"
+  },
+  "ID_MT": "3G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "San Roque - Bosconia",
+  "Nombre": "Ruta del Sol 3",
+  "Latitud": 9.319363,
+  "Longitud": -73.516691,
+  "PR": 4,
+  "Municipio": "CURUMANÍ",
+  "Departamento": "CESAR",
+  "divipola": 20228
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5192"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Aguachica  - San Roque",
+  "Latitud": 9.212012,
+  "Longitud": -73.526195,
+  "PR": 79,
+  "Municipio": "CURUMANÍ",
+  "Departamento": "CESAR",
+  "divipola": 20228
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5193"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "Aguachica  - San Roque",
+  "Latitud": 8.988073,
+  "Longitud": -73.629476,
+  "PR": 45,
+  "Municipio": "PAILITAS",
+  "Departamento": "CESAR",
+  "divipola": 20517
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5194"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 5.954884,
+  "Fallecidos": 23,
+  "GiPValue": 0,
+  "Tramo": "Aguachica  - San Roque",
+  "Latitud": 8.91766,
+  "Longitud": -73.642138,
+  "PR": 37,
+  "Municipio": "PAILITAS",
+  "Departamento": "CESAR",
+  "divipola": 20517
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5195"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.848127,
+  "Fallecidos": 7,
+  "GiPValue": 0.064584,
+  "Tramo": "Yumbo - Yotoco - Buga",
+  "Latitud": 3.597351,
+  "Longitud": -76.483492,
+  "PR": 14,
+  "Municipio": "YUMBO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76892
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5196"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 3.655345,
+  "Fallecidos": 5,
+  "GiPValue": 0.000257,
+  "Tramo": "Yumbo - Yotoco - Buga",
+  "Latitud": 3.591317,
+  "Longitud": -76.483483,
+  "PR": 13,
+  "Municipio": "YUMBO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76892
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5197"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.449778,
+  "Fallecidos": 10,
+  "GiPValue": 0.000009,
+  "Tramo": "Yumbo - Yotoco - Buga",
+  "Latitud": 3.585137,
+  "Longitud": -76.484617,
+  "PR": 13,
+  "Municipio": "YUMBO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76892
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5198"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.582184,
+  "Fallecidos": 18,
+  "GiPValue": 0.000005,
+  "Tramo": "Yumbo - Yotoco - Buga",
+  "Latitud": 3.577806,
+  "Longitud": -76.486178,
+  "PR": 11,
+  "Municipio": "YUMBO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76892
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5199"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.317373,
+  "Fallecidos": 8,
+  "GiPValue": 0.000016,
+  "Tramo": "Yumbo - Yotoco - Buga",
+  "Latitud": 3.5689,
+  "Longitud": -76.485162,
+  "PR": 10,
+  "Municipio": "YUMBO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76892
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc519a"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 3.714522,
+  "Fallecidos": 8,
+  "GiPValue": 0.000204,
+  "Tramo": "Yumbo - Yotoco - Buga",
+  "Latitud": 3.563146,
+  "Longitud": -76.489157,
+  "PR": 8,
+  "Municipio": "YUMBO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76892
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc519b"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.996146,
+  "Fallecidos": 3,
+  "GiPValue": 0.045918,
+  "Tramo": "Yumbo - Yotoco - Buga",
+  "Latitud": 3.559836,
+  "Longitud": -76.492298,
+  "PR": 8,
+  "Municipio": "YUMBO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76892
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc519c"
+  },
+  "ID_MT": "4G017",
+  "ENTIDAD": "ANI",
+  "GiZScore": 4.334761,
+  "Fallecidos": 19,
+  "GiPValue": 0.000015,
+  "Tramo": "Neiva-Girardot",
+  "Nombre": "IP  –  Neiva – Espinal - Girardot",
+  "Latitud": 4.150533,
+  "Longitud": -74.888622,
+  "PR": 3,
+  "Municipio": "ESPINAL",
+  "Departamento": "TOLIMA",
+  "divipola": 73268
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc519d"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "San Roque-La Paz",
+  "Latitud": 9.326617,
+  "Longitud": -73.488783,
+  "PR": 6,
+  "Municipio": "CURUMANÍ",
+  "Departamento": "CESAR",
+  "divipola": 20228
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc519e"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.771095,
+  "Fallecidos": 19,
+  "GiPValue": 0.000002,
+  "Tramo": "San Roque-La Paz",
+  "Latitud": 10.289912,
+  "Longitud": -73.206808,
+  "PR": 128,
+  "Municipio": "SAN DIEGO",
+  "Departamento": "CESAR",
+  "divipola": 20750
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc519f"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "CIUDAD",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Latitud": 10.46437,
+  "Longitud": -73.253769,
+  "PR": "sd",
+  "Municipio": "VALLEDUPAR",
+  "Departamento": "CESAR",
+  "divipola": 20001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51a0"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "La Paz - Maicao",
+  "Latitud": 10.890788,
+  "Longitud": -72.842541,
+  "PR": 6,
+  "Municipio": "FONSECA",
+  "Departamento": "LA GUAJIRA",
+  "divipola": 44279
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51a1"
+  },
+  "ID_MT": "1G003",
+  "ENTIDAD": "ANI",
+  "GiZScore": 5.954884,
+  "Fallecidos": 23,
+  "GiPValue": 0,
+  "Tramo": "Santa Marta-Maicao-Paraguachón",
+  "Nombre": "Santa Marta - Paraguachón",
+  "Latitud": 11.371088,
+  "Longitud": -72.191169,
+  "PR": 81,
+  "Municipio": "MAICAO",
+  "Departamento": "LA GUAJIRA",
+  "divipola": 44430
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51a2"
+  },
+  "ID_MT": "1G003",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Santa Marta-Maicao-Paraguachón",
+  "Nombre": "Santa Marta - Paraguachón",
+  "Latitud": 11.506861,
+  "Longitud": -72.76381,
+  "PR": 15,
+  "Municipio": "MANAURE",
+  "Departamento": "LA GUAJIRA",
+  "divipola": 44560
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51a3"
+  },
+  "ID_MT": "1G003",
+  "ENTIDAD": "ANI",
+  "GiZScore": 4.179201,
+  "Fallecidos": 17,
+  "GiPValue": 0.000029,
+  "Tramo": "Santa Marta-Maicao-Paraguachón",
+  "Nombre": "Santa Marta - Paraguachón",
+  "Latitud": 11.519362,
+  "Longitud": -72.954554,
+  "PR": 88,
+  "Municipio": "RIOHACHA",
+  "Departamento": "LA GUAJIRA",
+  "divipola": 44001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51a4"
+  },
+  "ID_MT": "1G003",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "Santa Marta-Maicao-Paraguachón",
+  "Nombre": "Santa Marta - Paraguachón",
+  "Latitud": 11.258772,
+  "Longitud": -73.160237,
+  "PR": 50,
+  "Municipio": "DIBULLA",
+  "Departamento": "LA GUAJIRA",
+  "divipola": 44090
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51a5"
+  },
+  "ID_MT": "1G003",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Santa Marta-Maicao-Paraguachón",
+  "Nombre": "Santa Marta - Paraguachón",
+  "Latitud": 11.229646,
+  "Longitud": -73.224032,
+  "PR": 42,
+  "Municipio": "DIBULLA",
+  "Departamento": "LA GUAJIRA",
+  "divipola": 44090
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51a6"
+  },
+  "ID_MT": "1G003",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Santa Marta-Maicao-Paraguachón",
+  "Nombre": "Santa Marta - Paraguachón",
+  "Latitud": 11.248769,
+  "Longitud": -73.779344,
+  "PR": 48,
+  "Municipio": "SANTA MARTA",
+  "Departamento": "MAGDALENA",
+  "divipola": 47001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51a7"
+  },
+  "ID_MT": "1G003",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "Santa Marta-Maicao-Paraguachón",
+  "Nombre": "Santa Marta - Paraguachón",
+  "Latitud": 11.276734,
+  "Longitud": -74.039509,
+  "PR": 16,
+  "Municipio": "SANTA MARTA",
+  "Departamento": "MAGDALENA",
+  "divipola": 47001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51a8"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 6.842725,
+  "Fallecidos": 26,
+  "GiPValue": 0,
+  "Tramo": "Cienaga - Barranquilla",
+  "Latitud": 11.00709,
+  "Longitud": -74.237504,
+  "PR": 62,
+  "Municipio": "CIÉNAGA",
+  "Departamento": "MAGDALENA",
+  "divipola": 47189
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51a9"
+  },
+  "ID_MT": "3G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.883253,
+  "Fallecidos": 16,
+  "GiPValue": 0.000103,
+  "Tramo": "Bosconia - Cienaga",
+  "Nombre": "Ruta del Sol 3",
+  "Latitud": 10.982643,
+  "Longitud": -74.194628,
+  "PR": 96,
+  "Municipio": "CIÉNAGA",
+  "Departamento": "MAGDALENA",
+  "divipola": 47189
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51aa"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Cienaga - Barranquilla",
+  "Latitud": 10.993441,
+  "Longitud": -74.28516,
+  "PR": 56,
+  "Municipio": "PUEBLOVIEJO",
+  "Departamento": "MAGDALENA",
+  "divipola": 47570
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51ab"
+  },
+  "ID_MT": "3G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "Bosconia - Cienaga",
+  "Nombre": "Ruta del Sol 3",
+  "Latitud": 10.893418,
+  "Longitud": -74.15375,
+  "PR": 86,
+  "Municipio": "ZONA BANANERA",
+  "Departamento": "MAGDALENA",
+  "divipola": 47980
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51ac"
+  },
+  "ID_MT": "3G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "Bosconia - Cienaga",
+  "Nombre": "Ruta del Sol 3",
+  "Latitud": 10.654616,
+  "Longitud": -74.162503,
+  "PR": 54,
+  "Municipio": "ZONA BANANERA",
+  "Departamento": "MAGDALENA",
+  "divipola": 47980
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51ad"
+  },
+  "ID_MT": "3G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Bosconia - Cienaga",
+  "Nombre": "Ruta del Sol 3",
+  "Latitud": 10.027275,
+  "Longitud": -73.911137,
+  "PR": 5,
+  "Municipio": "BOSCONIA",
+  "Departamento": "CESAR",
+  "divipola": 20060
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51ae"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "Cienaga - Barranquilla",
+  "Latitud": 10.974471,
+  "Longitud": -74.342166,
+  "PR": 50,
+  "Municipio": "PUEBLOVIEJO",
+  "Departamento": "MAGDALENA",
+  "divipola": 47570
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51af"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Cienaga - Barranquilla",
+  "Latitud": 11.00656,
+  "Longitud": -74.671399,
+  "PR": 12,
+  "Municipio": "SITIONUEVO",
+  "Departamento": "MAGDALENA",
+  "divipola": 47745
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51b0"
+  },
+  "ID_MT": "3G008",
+  "ENTIDAD": "ANI",
+  "GiZScore": 9.50625,
+  "Fallecidos": 35,
+  "GiPValue": 0,
+  "Tramo": "Barranquilla - Malambo - Palmar de Varela",
+  "Nombre": "Ruta Caribe",
+  "Latitud": 10.920684,
+  "Longitud": -74.775729,
+  "PR": 78,
+  "Municipio": "SOLEDAD",
+  "Departamento": "ATLÁNTICO",
+  "divipola": 8758
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51b1"
+  },
+  "ID_MT": "4G005",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Barranquilla - Cartagena",
+  "Nombre": "Cartagena – Barranquilla – “Circunvalar de la Prosperidad”",
+  "Latitud": 11.013682,
+  "Longitud": -74.880656,
+  "PR": 104,
+  "Municipio": "PUERTO COLOMBIA",
+  "Departamento": "ATLÁNTICO",
+  "divipola": 8573
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51b2"
+  },
+  "ID_MT": "4G005",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Barranquilla - Cartagena",
+  "Nombre": "Cartagena – Barranquilla – “Circunvalar de la Prosperidad”",
+  "Latitud": 10.543179,
+  "Longitud": -75.460686,
+  "PR": 12,
+  "Municipio": "CARTAGENA DE INDIAS",
+  "Departamento": "BOLÍVAR",
+  "divipola": 13001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51b3"
+  },
+  "ID_MT": "3G008",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.796662,
+  "Fallecidos": 10,
+  "GiPValue": 0.005163,
+  "Tramo": "Sincerin - Arjona - Turbaco - Cartagena",
+  "Nombre": "Ruta Caribe",
+  "Latitud": 10.338313,
+  "Longitud": -75.418314,
+  "PR": 92,
+  "Municipio": "TURBACO",
+  "Departamento": "BOLÍVAR",
+  "divipola": 13836
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51b4"
+  },
+  "ID_MT": "3G008",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.980858,
+  "Fallecidos": 10,
+  "GiPValue": 0.002874,
+  "Tramo": "Sincerin - Arjona - Turbaco - Cartagena",
+  "Nombre": "Ruta Caribe",
+  "Latitud": 10.332981,
+  "Longitud": -75.410213,
+  "PR": 92,
+  "Municipio": "TURBACO",
+  "Departamento": "BOLÍVAR",
+  "divipola": 13836
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51b5"
+  },
+  "ID_MT": "3G008",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "Cartagena-Barranquilla (Cordialidad)",
+  "Nombre": "Ruta Caribe",
+  "Latitud": 10.596021,
+  "Longitud": -75.294129,
+  "PR": 29,
+  "Municipio": "SANTA CATALINA",
+  "Departamento": "BOLÍVAR",
+  "divipola": 13673
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51b6"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 5.872861,
+  "Fallecidos": 4,
+  "GiPValue": 0,
+  "Latitud": 10.863689,
+  "Longitud": -74.778801,
+  "PR": 72,
+  "Municipio": "MALAMBO",
+  "Departamento": "ATLÁNTICO",
+  "divipola": 8433
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51b7"
+  },
+  "ID_MT": "3G008",
+  "ENTIDAD": "ANI",
+  "GiZScore": 6.538746,
+  "Fallecidos": 33,
+  "GiPValue": 0,
+  "Tramo": "Barranquilla - Malambo - Palmar de Varela",
+  "Nombre": "Ruta Caribe",
+  "Latitud": 10.852572,
+  "Longitud": -74.77184,
+  "PR": 71,
+  "Municipio": "MALAMBO",
+  "Departamento": "ATLÁNTICO",
+  "divipola": 8433
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51b8"
+  },
+  "ID_MT": "3G008",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.291359,
+  "Fallecidos": 14,
+  "GiPValue": 0.000997,
+  "Tramo": "Barranquilla - Malambo - Palmar de Varela",
+  "Nombre": "Ruta Caribe",
+  "Latitud": 10.771084,
+  "Longitud": -74.75912,
+  "PR": 62,
+  "Municipio": "SANTO TOMÁS",
+  "Departamento": "ATLÁNTICO",
+  "divipola": 8685
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51b9"
+  },
+  "ID_MT": "3G008",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "Barranquilla - Malambo - Palmar de Varela",
+  "Nombre": "Ruta Caribe",
+  "Latitud": 10.748465,
+  "Longitud": -74.757868,
+  "PR": 58,
+  "Municipio": "SANTO TOMÁS",
+  "Departamento": "ATLÁNTICO",
+  "divipola": 8685
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51ba"
+  },
+  "ID_MT": "4G018",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Carreto - Barranquilla",
+  "Nombre": "Puerta de Hierro – Palmar de Varela y Carreto – Cruz del Viso",
+  "Latitud": 10.646053,
+  "Longitud": -74.760489,
+  "PR": 46,
+  "Municipio": "PONEDERA",
+  "Departamento": "ATLÁNTICO",
+  "divipola": 8560
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51bb"
+  },
+  "ID_MT": "4G018",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "Carreto - Barranquilla",
+  "Nombre": "Puerta de Hierro – Palmar de Varela y Carreto – Cruz del Viso",
+  "Latitud": 10.571941,
+  "Longitud": -74.791658,
+  "PR": 38,
+  "Municipio": "PONEDERA",
+  "Departamento": "ATLÁNTICO",
+  "divipola": 8560
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51bc"
+  },
+  "ID_MT": "3G008",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Carreto-Cartagena",
+  "Nombre": "Ruta Caribe",
+  "Latitud": 10.136478,
+  "Longitud": -75.25549,
+  "PR": 60,
+  "Municipio": "MAHATES",
+  "Departamento": "BOLÍVAR",
+  "divipola": 13433
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51bd"
+  },
+  "ID_MT": "3G008",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Sincerin - Arjona - Turbaco - Cartagena",
+  "Nombre": "Ruta Caribe",
+  "Latitud": 10.250748,
+  "Longitud": -75.34756,
+  "PR": 78,
+  "Municipio": "ARJONA",
+  "Departamento": "BOLÍVAR",
+  "divipola": 13052
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51be"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Latitud": 9.380651,
+  "Longitud": -75.682601,
+  "PR": 3,
+  "Municipio": "COVEÑAS",
+  "Departamento": "SUCRE",
+  "divipola": 70221
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51bf"
+  },
+  "ID_MT": "4G016",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "San Pelayo-Lorica",
+  "Nombre": "IP – Antioquia – Bolívar",
+  "Latitud": 9.030229,
+  "Longitud": -75.827469,
+  "PR": 25,
+  "Municipio": "COTORRA",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23300
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51c0"
+  },
+  "ID_MT": "4G016",
+  "ENTIDAD": "ANI",
+  "GiZScore": 11.873827,
+  "Fallecidos": 43,
+  "GiPValue": 0,
+  "Tramo": "Cereté - San Pelayo",
+  "Nombre": "IP – Antioquia – Bolívar",
+  "Latitud": 8.920309,
+  "Longitud": -75.812669,
+  "PR": 13,
+  "Municipio": "CERETÉ",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23162
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51c1"
+  },
+  "ID_MT": "4G016",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.93442,
+  "Fallecidos": 1,
+  "GiPValue": 0.053062,
+  "Tramo": "Arboletes-Montería",
+  "Nombre": "IP – Antioquia – Bolívar",
+  "Latitud": 8.781073,
+  "Longitud": -75.894108,
+  "PR": 60,
+  "Municipio": "MONTERÍA",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51c2"
+  },
+  "ID_MT": "4G026",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Chigorodó-Turbo",
+  "Nombre": "Autopistas al Mar 2",
+  "Latitud": 8.076931,
+  "Longitud": -76.673802,
+  "PR": 6,
+  "Municipio": "TURBO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5837
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51c3"
+  },
+  "ID_MT": "4G026",
+  "ENTIDAD": "ANI",
+  "GiZScore": 8.026514,
+  "Fallecidos": 30,
+  "GiPValue": 0,
+  "Tramo": "Chigorodó-Turbo",
+  "Nombre": "Autopistas al Mar 2",
+  "Latitud": 8.005361,
+  "Longitud": -76.640697,
+  "PR": 16,
+  "Municipio": "TURBO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5837
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51c4"
+  },
+  "ID_MT": "4G026",
+  "ENTIDAD": "ANI",
+  "GiZScore": 6.250831,
+  "Fallecidos": 24,
+  "GiPValue": 0,
+  "Tramo": "Chigorodó-Turbo",
+  "Nombre": "Autopistas al Mar 2",
+  "Latitud": 7.873917,
+  "Longitud": -76.635127,
+  "PR": 30,
+  "Municipio": "APARTADÓ",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5045
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51c5"
+  },
+  "ID_MT": "4G026",
+  "ENTIDAD": "ANI",
+  "GiZScore": 5.067042,
+  "Fallecidos": 20,
+  "GiPValue": 0,
+  "Tramo": "Chigorodó-Turbo",
+  "Nombre": "Autopistas al Mar 2",
+  "Latitud": 7.795214,
+  "Longitud": -76.653741,
+  "PR": 40,
+  "Municipio": "APARTADÓ",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5045
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51c6"
+  },
+  "ID_MT": "4G026",
+  "ENTIDAD": "ANI",
+  "GiZScore": 6.250831,
+  "Fallecidos": 24,
+  "GiPValue": 0,
+  "Tramo": "Chigorodó-Turbo",
+  "Nombre": "Autopistas al Mar 2",
+  "Latitud": 7.724083,
+  "Longitud": -76.667336,
+  "PR": 48,
+  "Municipio": "CAREPA",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5147
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51c7"
+  },
+  "ID_MT": "4G026",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.352995,
+  "Fallecidos": 3,
+  "GiPValue": 0.018623,
+  "Tramo": "Chigorodó-Turbo",
+  "Nombre": "Autopistas al Mar 2",
+  "Latitud": 7.676232,
+  "Longitud": -76.678499,
+  "PR": 53,
+  "Municipio": "CHIGORODÓ",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5172
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51c8"
+  },
+  "ID_MT": "4G026",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.352995,
+  "Fallecidos": 14,
+  "GiPValue": 0.018623,
+  "Tramo": "Santafé de Antioquía - Chigorodó",
+  "Nombre": "Autopistas al Mar 2",
+  "Latitud": 7.666802,
+  "Longitud": -76.677201,
+  "PR": 0,
+  "Municipio": "CHIGORODÓ",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5172
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51c9"
+  },
+  "ID_MT": "4G026",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.883253,
+  "Fallecidos": 16,
+  "GiPValue": 0.000103,
+  "Tramo": "Santafé de Antioquía - Chigorodó",
+  "Nombre": "Autopistas al Mar 2",
+  "Latitud": 7.619732,
+  "Longitud": -76.649909,
+  "PR": 6,
+  "Municipio": "CHIGORODÓ",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5172
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51ca"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Lorica - Chinú",
+  "Latitud": 9.236171,
+  "Longitud": -75.64841,
+  "PR": 19,
+  "Municipio": "MOMIL",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23464
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51cb"
+  },
+  "ID_MT": "3G006",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.942162,
+  "Fallecidos": 4,
+  "GiPValue": 0.052117,
+  "Tramo": "Planeta Rica - Sincelejo",
+  "Nombre": "Córdoba – Sucre",
+  "Latitud": 8.957414,
+  "Longitud": -75.453161,
+  "PR": 72,
+  "Municipio": "SAHAGÚN",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23660
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51cc"
+  },
+  "ID_MT": "3G006",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Montería-La Ye",
+  "Nombre": "Córdoba – Sucre",
+  "Latitud": 8.879113,
+  "Longitud": -75.662968,
+  "PR": 14,
+  "Municipio": "CIÉNAGA DE ORO",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23189
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51cd"
+  },
+  "ID_MT": "3G006",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.883253,
+  "Fallecidos": 16,
+  "GiPValue": 0.000103,
+  "Tramo": "Montería-La Ye",
+  "Nombre": "Córdoba – Sucre",
+  "Latitud": 8.885013,
+  "Longitud": -75.720018,
+  "PR": 8,
+  "Municipio": "CIÉNAGA DE ORO",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23189
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51ce"
+  },
+  "ID_MT": "3G006",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.143707,
+  "Fallecidos": 6,
+  "GiPValue": 0.032056,
+  "Tramo": "Montería-La Ye",
+  "Nombre": "Córdoba – Sucre",
+  "Latitud": 8.887841,
+  "Longitud": -75.752688,
+  "PR": 4,
+  "Municipio": "CERETÉ",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23162
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51cf"
+  },
+  "ID_MT": "3G006",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.995412,
+  "Fallecidos": 13,
+  "GiPValue": 0.002741,
+  "Tramo": "Montería-La Ye",
+  "Nombre": "Córdoba – Sucre",
+  "Latitud": 8.831702,
+  "Longitud": -75.834453,
+  "PR": "sd",
+  "Municipio": "MONTERÍA",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51d0"
+  },
+  "ID_MT": "4G016",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.93442,
+  "Fallecidos": 1,
+  "GiPValue": 0.053062,
+  "Tramo": "Arboletes-Montería",
+  "Nombre": "IP – Antioquia – Bolívar",
+  "Latitud": 8.753386,
+  "Longitud": -75.895939,
+  "PR": 63,
+  "Municipio": "MONTERÍA",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51d1"
+  },
+  "ID_MT": "4G016",
+  "ENTIDAD": "ANI",
+  "GiZScore": 7.730567,
+  "Fallecidos": 29,
+  "GiPValue": 0,
+  "Tramo": "Planeta Rica - Montería",
+  "Nombre": "IP – Antioquia – Bolívar",
+  "Latitud": 8.694844,
+  "Longitud": -75.818022,
+  "PR": 41,
+  "Municipio": "MONTERÍA",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51d2"
+  },
+  "ID_MT": "4G016",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.587306,
+  "Fallecidos": 15,
+  "GiPValue": 0.000334,
+  "Tramo": "Planeta Rica - Montería",
+  "Nombre": "IP – Antioquia – Bolívar",
+  "Latitud": 8.601799,
+  "Longitud": -75.737804,
+  "PR": 29,
+  "Municipio": "MONTERÍA",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51d3"
+  },
+  "ID_MT": "3G006",
+  "ENTIDAD": "ANI",
+  "GiZScore": 8.026514,
+  "Fallecidos": 30,
+  "GiPValue": 0,
+  "Tramo": "Planeta Rica - Sincelejo",
+  "Nombre": "Córdoba – Sucre",
+  "Latitud": 9.29113,
+  "Longitud": -75.389608,
+  "PR": "sd",
+  "Municipio": "SINCELEJO",
+  "Departamento": "SUCRE",
+  "divipola": 70001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51d4"
+  },
+  "ID_MT": "3G006",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.996146,
+  "Fallecidos": 5,
+  "GiPValue": 0.045918,
+  "Tramo": "Sincelejo - Toluviejo",
+  "Nombre": "Córdoba – Sucre",
+  "Latitud": 9.290947,
+  "Longitud": -75.411936,
+  "PR": "sd",
+  "Municipio": "SINCELEJO",
+  "Departamento": "SUCRE",
+  "divipola": 70001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51d5"
+  },
+  "ID_MT": "3G006",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.942162,
+  "Fallecidos": 11,
+  "GiPValue": 0.052117,
+  "Tramo": "Sincelejo - Toluviejo",
+  "Nombre": "Córdoba – Sucre",
+  "Latitud": 9.302744,
+  "Longitud": -75.4129,
+  "PR": "sd",
+  "Municipio": "SINCELEJO",
+  "Departamento": "SUCRE",
+  "divipola": 70001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51d6"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.475148,
+  "Fallecidos": 18,
+  "GiPValue": 0.000008,
+  "Tramo": "Puerta del Hierro-Magangué",
+  "Latitud": 9.253232,
+  "Longitud": -74.768052,
+  "PR": 62,
+  "Municipio": "MAGANGUÉ",
+  "Departamento": "BOLÍVAR",
+  "divipola": 13430
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51d7"
+  },
+  "ID_MT": "4G016",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.883253,
+  "Fallecidos": 16,
+  "GiPValue": 0.000103,
+  "Tramo": "Caucasia-Planeta Rica",
+  "Nombre": "IP – Antioquia – Bolívar",
+  "Latitud": 8.361346,
+  "Longitud": -75.56274,
+  "PR": 59,
+  "Municipio": "PLANETA RICA",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23555
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51d8"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 3.920156,
+  "Fallecidos": 7,
+  "GiPValue": 0.000088,
+  "Latitud": 7.079411,
+  "Longitud": -73.16713,
+  "PR": 9,
+  "Municipio": "GIRÓN",
+  "Departamento": "SANTANDER",
+  "divipola": 68307
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51d9"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 3.138462,
+  "Fallecidos": 17,
+  "GiPValue": 0.001698,
+  "Latitud": 7.092439,
+  "Longitud": -73.167864,
+  "PR": 12,
+  "Municipio": "GIRÓN",
+  "Departamento": "SANTANDER",
+  "divipola": 68307
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51da"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.625762,
+  "Fallecidos": 3,
+  "GiPValue": 0.008646,
+  "Latitud": 7.105292,
+  "Longitud": -73.1642,
+  "PR": 12,
+  "Municipio": "BUCARAMANGA",
+  "Departamento": "SANTANDER",
+  "divipola": 68001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51db"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Latitud": 6.935449,
+  "Longitud": -71.860429,
+  "PR": 126,
+  "Municipio": "SARAVENA",
+  "Departamento": "ARAUCA",
+  "divipola": 81736
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51dc"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 3.291359,
+  "Fallecidos": 14,
+  "GiPValue": 0.000997,
+  "Latitud": 6.792454,
+  "Longitud": -71.762877,
+  "PR": 102,
+  "Municipio": "FORTUL",
+  "Departamento": "ARAUCA",
+  "divipola": 81300
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51dd"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 3.822062,
+  "Fallecidos": 11,
+  "GiPValue": 0.000132,
+  "Tramo": "Yopal - Tame",
+  "Latitud": 6.464472,
+  "Longitud": -71.724108,
+  "PR": 58,
+  "Municipio": "TAME",
+  "Departamento": "ARAUCA",
+  "divipola": 81794
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51de"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 3.138462,
+  "Fallecidos": 15,
+  "GiPValue": 0.001698,
+  "Tramo": "Tame - San Lope",
+  "Latitud": 6.461702,
+  "Longitud": -71.73376,
+  "PR": 58,
+  "Municipio": "TAME",
+  "Departamento": "ARAUCA",
+  "divipola": 81794
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51df"
+  },
+  "ID_MT": "3G010",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.995412,
+  "Fallecidos": 13,
+  "GiPValue": 0.002741,
+  "Tramo": "Guaduas-Puerto Salgar",
+  "Nombre": "Ruta del Sol 1",
+  "Latitud": 5.162565,
+  "Longitud": -74.589129,
+  "PR": "sd",
+  "Municipio": "GUADUAS",
+  "Departamento": "CUNDINAMARCA",
+  "divipola": 25320
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51e0"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.884258,
+  "Fallecidos": 11,
+  "GiPValue": 0.003923,
+  "Tramo": "Viterbo-Ansermanuevo",
+  "Latitud": 4.752233,
+  "Longitud": -75.926535,
+  "PR": 12,
+  "Municipio": "CARTAGO",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76147
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51e1"
+  },
+  "ID_MT": "4G017",
+  "ENTIDAD": "ANI",
+  "GiZScore": 4.334761,
+  "Fallecidos": 4,
+  "GiPValue": 0.000015,
+  "Tramo": "Neiva-Girardot",
+  "Nombre": "IP  –  Neiva – Espinal - Girardot",
+  "Latitud": 4.159177,
+  "Longitud": -74.878766,
+  "PR": 37,
+  "Municipio": "ESPINAL",
+  "Departamento": "TOLIMA",
+  "divipola": 73268
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51e2"
+  },
+  "ID_MT": "3G009",
+  "ENTIDAD": "ANI",
+  "GiZScore": 4.179201,
+  "Fallecidos": 17,
+  "GiPValue": 0.000029,
+  "Nombre": "Girardot – Ibagué – Cajamarca",
+  "Latitud": 4.180779,
+  "Longitud": -74.941403,
+  "PR": 29,
+  "Municipio": "ESPINAL",
+  "Departamento": "TOLIMA",
+  "divipola": 73268
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51e3"
+  },
+  "ID_MT": "4G017",
+  "ENTIDAD": "ANI",
+  "GiZScore": 4.334761,
+  "Fallecidos": 11,
+  "GiPValue": 0.000015,
+  "Nombre": "IP  –  Neiva – Espinal - Girardot",
+  "Latitud": 4.166115,
+  "Longitud": -74.893365,
+  "PR": 35,
+  "Municipio": "ESPINAL",
+  "Departamento": "TOLIMA",
+  "divipola": 73268
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51e4"
+  },
+  "ID_MT": "4G017",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.587306,
+  "Fallecidos": 15,
+  "GiPValue": 0.000334,
+  "Tramo": "Neiva-Girardot",
+  "Nombre": "IP  –  Neiva – Espinal - Girardot",
+  "Latitud": 3.728237,
+  "Longitud": -75.078416,
+  "PR": 97,
+  "Municipio": "COYAIMA",
+  "Departamento": "TOLIMA",
+  "divipola": 73217
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51e5"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.725132,
+  "Fallecidos": 11,
+  "GiPValue": 0.084504,
+  "Tramo": "Campoalegre-Neiva",
+  "Latitud": 2.900041,
+  "Longitud": -75.280243,
+  "PR": "sd",
+  "Municipio": "NEIVA",
+  "Departamento": "HUILA",
+  "divipola": 41001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51e6"
+  },
+  "ID_MT": "4G022",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "Campoalegre-Neiva",
+  "Nombre": "Santana - Mocoa - Neiva",
+  "Latitud": 2.773851,
+  "Longitud": -75.304487,
+  "PR": 98,
+  "Municipio": "RIVERA",
+  "Departamento": "HUILA",
+  "divipola": 41615
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51e7"
+  },
+  "ID_MT": "4G022",
+  "ENTIDAD": "ANI",
+  "GiZScore": 4.179201,
+  "Fallecidos": 17,
+  "GiPValue": 0.000029,
+  "Tramo": "Campoalegre-Neiva",
+  "Nombre": "Santana - Mocoa - Neiva",
+  "Latitud": 2.823454,
+  "Longitud": -75.293748,
+  "PR": 102,
+  "Municipio": "RIVERA",
+  "Departamento": "HUILA",
+  "divipola": 41615
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51e8"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 8.914356,
+  "Fallecidos": 33,
+  "GiPValue": 0,
+  "Tramo": "Cali - Jamundí - La Primavera",
+  "Latitud": 3.334052,
+  "Longitud": -76.523275,
+  "PR": 114,
+  "Municipio": "CALI",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51e9"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.236583,
+  "Fallecidos": 10,
+  "GiPValue": 0.000023,
+  "Tramo": "Cali - Jamundí - La Primavera",
+  "Latitud": 3.292549,
+  "Longitud": -76.524099,
+  "PR": 109,
+  "Municipio": "CALI",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51ea"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 5.872861,
+  "Fallecidos": 16,
+  "GiPValue": 0,
+  "Tramo": "Cali - Jamundí - La Primavera",
+  "Latitud": 3.277813,
+  "Longitud": -76.530515,
+  "PR": 107,
+  "Municipio": "JAMUNDÍ",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76364
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51eb"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 5.701596,
+  "Fallecidos": 17,
+  "GiPValue": 0,
+  "Tramo": "Cali - Jamundí - La Primavera",
+  "Latitud": 3.263976,
+  "Longitud": -76.532714,
+  "PR": 106,
+  "Municipio": "JAMUNDÍ",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76364
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51ec"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 5.658936,
+  "Fallecidos": 22,
+  "GiPValue": 0,
+  "Tramo": "Cali - Jamundí - La Primavera",
+  "Latitud": 3.241905,
+  "Longitud": -76.520027,
+  "PR": 103,
+  "Municipio": "JAMUNDÍ",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76364
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51ed"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "Santander de Quilichao-Candelaria",
+  "Latitud": 3.125511,
+  "Longitud": -76.465252,
+  "PR": 87,
+  "Municipio": "VILLA RICA",
+  "Departamento": "CAUCA",
+  "divipola": 19845
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51ee"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 3.883253,
+  "Fallecidos": 16,
+  "GiPValue": 0.000103,
+  "Tramo": "Santander de Quilichao-Candelaria",
+  "Latitud": 3.202309,
+  "Longitud": -76.437167,
+  "PR": 6,
+  "Municipio": "CALOTO",
+  "Departamento": "CAUCA",
+  "divipola": 19142
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51ef"
+  },
+  "ID_MT": "4G021",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.725132,
+  "Fallecidos": 9,
+  "GiPValue": 0.084504,
+  "Tramo": "Popayán-Santander de Quilichao",
+  "Nombre": "Popayán – Santander de Quilichao",
+  "Latitud": 2.979634,
+  "Longitud": -76.512275,
+  "PR": 69,
+  "Municipio": "SANTANDER DE QUILICHAO",
+  "Departamento": "CAUCA",
+  "divipola": 19698
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51f0"
+  },
+  "ID_MT": "4G021",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.771262,
+  "Fallecidos": 5,
+  "GiPValue": 0.076517,
+  "Tramo": "Popayán-Santander de Quilichao",
+  "Nombre": "Popayán – Santander de Quilichao",
+  "Latitud": 2.96747,
+  "Longitud": -76.523872,
+  "PR": 67,
+  "Municipio": "SANTANDER DE QUILICHAO",
+  "Departamento": "CAUCA",
+  "divipola": 19698
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51f1"
+  },
+  "ID_MT": "4G021",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.771262,
+  "Fallecidos": 4,
+  "GiPValue": 0.076517,
+  "Tramo": "Popayán-Santander de Quilichao",
+  "Nombre": "Popayán – Santander de Quilichao",
+  "Latitud": 2.929906,
+  "Longitud": -76.533393,
+  "PR": 61,
+  "Municipio": "SANTANDER DE QUILICHAO",
+  "Departamento": "CAUCA",
+  "divipola": 19698
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51f2"
+  },
+  "ID_MT": "4G021",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.967562,
+  "Fallecidos": 4,
+  "GiPValue": 0.003002,
+  "Tramo": "Popayán-Santander de Quilichao",
+  "Nombre": "Popayán – Santander de Quilichao",
+  "Latitud": 2.905431,
+  "Longitud": -76.548111,
+  "PR": 57,
+  "Municipio": "SANTANDER DE QUILICHAO",
+  "Departamento": "CAUCA",
+  "divipola": 19698
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51f3"
+  },
+  "ID_MT": "4G021",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.143707,
+  "Fallecidos": 12,
+  "GiPValue": 0.032056,
+  "Tramo": "Popayán-Santander de Quilichao",
+  "Nombre": "Popayán – Santander de Quilichao",
+  "Latitud": 2.891072,
+  "Longitud": -76.549033,
+  "PR": 55,
+  "Municipio": "SANTANDER DE QUILICHAO",
+  "Departamento": "CAUCA",
+  "divipola": 19698
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51f4"
+  },
+  "ID_MT": "4G021",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.113062,
+  "Fallecidos": 3,
+  "GiPValue": 0.034595,
+  "Tramo": "Popayán-Santander de Quilichao",
+  "Nombre": "Popayán – Santander de Quilichao",
+  "Latitud": 2.856049,
+  "Longitud": -76.547731,
+  "PR": 51,
+  "Municipio": "CALDONO",
+  "Departamento": "CAUCA",
+  "divipola": 19137
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51f5"
+  },
+  "ID_MT": "4G021",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.771262,
+  "Fallecidos": 10,
+  "GiPValue": 0.076517,
+  "Tramo": "Popayán-Santander de Quilichao",
+  "Nombre": "Popayán – Santander de Quilichao",
+  "Latitud": 2.84217,
+  "Longitud": -76.543632,
+  "PR": 49,
+  "Municipio": "CALDONO",
+  "Departamento": "CAUCA",
+  "divipola": 19137
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51f6"
+  },
+  "ID_MT": "4G021",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.113062,
+  "Fallecidos": 6,
+  "GiPValue": 0.034595,
+  "Tramo": "Popayán-Santander de Quilichao",
+  "Nombre": "Popayán – Santander de Quilichao",
+  "Latitud": 2.827031,
+  "Longitud": -76.53812,
+  "PR": 47,
+  "Municipio": "CALDONO",
+  "Departamento": "CAUCA",
+  "divipola": 19137
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51f7"
+  },
+  "ID_MT": "4G021",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.848127,
+  "Fallecidos": 4,
+  "GiPValue": 0.064584,
+  "Tramo": "Popayán-Santander de Quilichao",
+  "Nombre": "Popayán – Santander de Quilichao",
+  "Latitud": 2.619268,
+  "Longitud": -76.517618,
+  "PR": 19,
+  "Municipio": "CAJIBÍO",
+  "Departamento": "CAUCA",
+  "divipola": 19130
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51f8"
+  },
+  "ID_MT": "4G021",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.113062,
+  "Fallecidos": 8,
+  "GiPValue": 0.034595,
+  "Tramo": "Popayán-Santander de Quilichao",
+  "Nombre": "Popayán – Santander de Quilichao",
+  "Latitud": 2.612005,
+  "Longitud": -76.521688,
+  "PR": 19,
+  "Municipio": "CAJIBÍO",
+  "Departamento": "CAUCA",
+  "divipola": 19130
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51f9"
+  },
+  "ID_MT": "4G021",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.454862,
+  "Fallecidos": 9,
+  "GiPValue": 0.014094,
+  "Tramo": "Popayán-Santander de Quilichao",
+  "Nombre": "Popayán – Santander de Quilichao",
+  "Latitud": 2.6019,
+  "Longitud": -76.527638,
+  "PR": 17,
+  "Municipio": "CAJIBÍO",
+  "Departamento": "CAUCA",
+  "divipola": 19130
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51fa"
+  },
+  "ID_MT": "4G021",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.771262,
+  "Fallecidos": 6,
+  "GiPValue": 0.076517,
+  "Tramo": "Popayán-Santander de Quilichao",
+  "Nombre": "Popayán – Santander de Quilichao",
+  "Latitud": 2.589271,
+  "Longitud": -76.533741,
+  "PR": 15,
+  "Municipio": "CAJIBÍO",
+  "Departamento": "CAUCA",
+  "divipola": 19130
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51fb"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.88596,
+  "Fallecidos": 7,
+  "GiPValue": 0.0593,
+  "Latitud": 2.450318,
+  "Longitud": -76.627068,
+  "PR": 3,
+  "Municipio": "POPAYÁN",
+  "Departamento": "CAUCA",
+  "divipola": 19001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51fc"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.659538,
+  "Fallecidos": 7,
+  "GiPValue": 0.097007,
+  "Tramo": "Pasto-Popayán",
+  "Latitud": 2.456928,
+  "Longitud": -76.638843,
+  "PR": 58,
+  "Municipio": "POPAYÁN",
+  "Departamento": "CAUCA",
+  "divipola": 19001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51fd"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.022182,
+  "Fallecidos": 6,
+  "GiPValue": 0.043158,
+  "Tramo": "Pasto-Popayán",
+  "Latitud": 2.442898,
+  "Longitud": -76.631766,
+  "PR": 2,
+  "Municipio": "POPAYÁN",
+  "Departamento": "CAUCA",
+  "divipola": 19001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51fe"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.942162,
+  "Fallecidos": 4,
+  "GiPValue": 0.052117,
+  "Tramo": "Pasto-Popayán",
+  "Latitud": 2.109391,
+  "Longitud": -76.989407,
+  "PR": 41,
+  "Municipio": "PATÍA (El Bordo)",
+  "Departamento": "CAUCA",
+  "divipola": 19532
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc51ff"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "Pasto-Popayán",
+  "Latitud": 1.409443,
+  "Longitud": -77.285404,
+  "PR": 34,
+  "Municipio": "CHACHAGUÍ",
+  "Departamento": "NARIÑO",
+  "divipola": 52240
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5200"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.884258,
+  "Fallecidos": 21,
+  "GiPValue": 0.003923,
+  "Tramo": "Pasto - La Unión - Mercaderes",
+  "Latitud": 1.233546,
+  "Longitud": -77.288157,
+  "PR": 6,
+  "Municipio": "PASTO",
+  "Departamento": "NARIÑO",
+  "divipola": 52001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5201"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 3.480262,
+  "Fallecidos": 6,
+  "GiPValue": 0.000501,
+  "Tramo": "Pasto - Sandona - Yacuanquer",
+  "Latitud": 1.228488,
+  "Longitud": -77.290755,
+  "PR": 91,
+  "Municipio": "PASTO",
+  "Departamento": "NARIÑO",
+  "divipola": 52001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5202"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.33129,
+  "Fallecidos": 2,
+  "GiPValue": 0.019738,
+  "Tramo": "Pasto - Sandona - Yacuanquer",
+  "Latitud": 1.235623,
+  "Longitud": -77.300487,
+  "PR": 6,
+  "Municipio": "PASTO",
+  "Departamento": "NARIÑO",
+  "divipola": 52001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5203"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.77157,
+  "Fallecidos": 12,
+  "GiPValue": 0.005579,
+  "Latitud": 3.547273,
+  "Longitud": -76.294634,
+  "PR": 23,
+  "Municipio": "PALMIRA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76520
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5204"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.143707,
+  "Fallecidos": 13,
+  "GiPValue": 0.032056,
+  "Tramo": "Palmira - El Palo",
+  "Latitud": 3.178586,
+  "Longitud": -76.257139,
+  "PR": 38,
+  "Municipio": "CORINTO",
+  "Departamento": "CAUCA",
+  "divipola": 19212
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5205"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Palmira - El Palo",
+  "Latitud": 3.295063,
+  "Longitud": -76.229263,
+  "PR": 52,
+  "Municipio": "FLORIDA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76275
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5206"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.352995,
+  "Fallecidos": 1,
+  "GiPValue": 0.018623,
+  "Tramo": "Palmira - El Palo",
+  "Latitud": 3.403672,
+  "Longitud": -76.238295,
+  "PR": 68,
+  "Municipio": "PRADERA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76563
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5207"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.352995,
+  "Fallecidos": 16,
+  "GiPValue": 0.018623,
+  "Tramo": "Palmira - El Palo",
+  "Latitud": 3.418195,
+  "Longitud": -76.242316,
+  "PR": 70,
+  "Municipio": "PRADERA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76563
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5208"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "Palmira - El Palo",
+  "Latitud": 3.454401,
+  "Longitud": -76.242808,
+  "PR": 74,
+  "Municipio": "PRADERA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76563
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5209"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 4.163861,
+  "Fallecidos": 4,
+  "GiPValue": 0.000031,
+  "Tramo": "Candelaria-Buga",
+  "Latitud": 3.421848,
+  "Longitud": -76.350184,
+  "PR": 37,
+  "Municipio": "CANDELARIA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76130
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc520a"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 5.073733,
+  "Fallecidos": 26,
+  "GiPValue": 0,
+  "Tramo": "Santander de Quilichao-Candelaria",
+  "Latitud": 3.405531,
+  "Longitud": -76.35194,
+  "PR": 35,
+  "Municipio": "CANDELARIA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76130
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc520b"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Santander de Quilichao-Candelaria",
+  "Latitud": 3.387203,
+  "Longitud": -76.352804,
+  "PR": 33,
+  "Municipio": "CANDELARIA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76130
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc520c"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "El Cerrito - Obando - Cali",
+  "Latitud": 3.57099,
+  "Longitud": -76.408845,
+  "PR": "sd",
+  "Municipio": "PALMIRA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76520
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc520d"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.77157,
+  "Fallecidos": 7,
+  "GiPValue": 0.005579,
+  "Latitud": 3.563894,
+  "Longitud": -76.290876,
+  "PR": 26,
+  "Municipio": "PALMIRA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76520
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc520e"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 3.291359,
+  "Fallecidos": 14,
+  "GiPValue": 0.000997,
+  "Latitud": 3.580975,
+  "Longitud": -76.281778,
+  "PR": 27,
+  "Municipio": "PALMIRA",
+  "Departamento": "VALLE DEL CAUCA",
+  "divipola": 76520
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc520f"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "Granada - Villavicencio",
+  "Latitud": 4.102055,
+  "Longitud": -73.658598,
+  "PR": 72,
+  "Municipio": "VILLAVICENCIO",
+  "Departamento": "META",
+  "divipola": 50001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5210"
+  },
+  "ID_MT": "4G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Granada - Villavicencio",
+  "Nombre": "IP Malla Vial del Meta",
+  "Latitud": 4.086963,
+  "Longitud": -73.673234,
+  "PR": 70,
+  "Municipio": "VILLAVICENCIO",
+  "Departamento": "META",
+  "divipola": 50001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5211"
+  },
+  "ID_MT": "4G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 4.179201,
+  "Fallecidos": 17,
+  "GiPValue": 0.000029,
+  "Tramo": "Granada - Villavicencio",
+  "Nombre": "IP Malla Vial del Meta",
+  "Latitud": 3.975073,
+  "Longitud": -73.767709,
+  "PR": 48,
+  "Municipio": "ACACÍAS",
+  "Departamento": "META",
+  "divipola": 50006
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5212"
+  },
+  "ID_MT": "4G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Granada - Villavicencio",
+  "Nombre": "IP Malla Vial del Meta",
+  "Latitud": 3.846129,
+  "Longitud": -73.763028,
+  "PR": 34,
+  "Municipio": "GUAMAL",
+  "Departamento": "META",
+  "divipola": 50318
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5213"
+  },
+  "ID_MT": "4G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 1.811623,
+  "Fallecidos": 9,
+  "GiPValue": 0.070044,
+  "Tramo": "Granada - Villavicencio",
+  "Nombre": "IP Malla Vial del Meta",
+  "Latitud": 3.765605,
+  "Longitud": -73.728621,
+  "PR": 24,
+  "Municipio": "CUBARRAL",
+  "Departamento": "META",
+  "divipola": 50223
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5214"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "San Juan de Arama-Granada",
+  "Latitud": 3.435439,
+  "Longitud": -73.762426,
+  "PR": 93,
+  "Municipio": "GRANADA",
+  "Departamento": "META",
+  "divipola": 50313
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5215"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "Florencia - Guayabal - Altamira",
+  "Latitud": 1.984003,
+  "Longitud": -75.79456,
+  "PR": 5,
+  "Municipio": "SUAZA",
+  "Departamento": "HUILA",
+  "divipola": 41770
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5216"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.995412,
+  "Fallecidos": 13,
+  "GiPValue": 0.002741,
+  "Tramo": "Florencia - Guayabal - Altamira",
+  "Latitud": 1.958148,
+  "Longitud": -75.799874,
+  "PR": 8,
+  "Municipio": "SUAZA",
+  "Departamento": "HUILA",
+  "divipola": 41770
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5217"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "Florencia - Guayabal - Altamira",
+  "Latitud": 1.824159,
+  "Longitud": -75.80044,
+  "PR": 28,
+  "Municipio": "SUAZA",
+  "Departamento": "HUILA",
+  "divipola": 41770
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5218"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.113062,
+  "Fallecidos": 6,
+  "GiPValue": 0.034595,
+  "Tramo": "Florencia - Guayabal - Altamira",
+  "Latitud": 1.625063,
+  "Longitud": -75.612312,
+  "PR": "sd",
+  "Municipio": "FLORENCIA",
+  "Departamento": "CAQUETÁ",
+  "divipola": 18001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5219"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.77157,
+  "Fallecidos": 13,
+  "GiPValue": 0.005579,
+  "Tramo": "Florencia  - San Vicente del Caguán",
+  "Latitud": 1.611408,
+  "Longitud": -75.604107,
+  "PR": "sd",
+  "Municipio": "FLORENCIA",
+  "Departamento": "CAQUETÁ",
+  "divipola": 18001
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc521a"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.995412,
+  "Fallecidos": 13,
+  "GiPValue": 0.002741,
+  "Tramo": "Pasto - La Unión - Mercaderes",
+  "Latitud": 1.598288,
+  "Longitud": -77.131184,
+  "PR": 89,
+  "Municipio": "LA UNIÓN",
+  "Departamento": "NARIÑO",
+  "divipola": 52399
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc521b"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "Tumaco-Pedregal",
+  "Latitud": 1.390962,
+  "Longitud": -78.52431,
+  "PR": 65,
+  "Municipio": "TUMACO",
+  "Departamento": "NARIÑO",
+  "divipola": 52835
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc521c"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "Tumaco-Pedregal",
+  "Latitud": 1.401704,
+  "Longitud": -78.567598,
+  "PR": 61,
+  "Municipio": "TUMACO",
+  "Departamento": "NARIÑO",
+  "divipola": 52835
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc521d"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.995412,
+  "Fallecidos": 13,
+  "GiPValue": 0.002741,
+  "Tramo": "Tumaco-Pedregal",
+  "Latitud": 1.658525,
+  "Longitud": -78.745214,
+  "PR": 25,
+  "Municipio": "TUMACO",
+  "Departamento": "NARIÑO",
+  "divipola": 52835
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc521e"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Tumaco-Pedregal",
+  "Latitud": 1.700747,
+  "Longitud": -78.768033,
+  "PR": 19,
+  "Municipio": "TUMACO",
+  "Departamento": "NARIÑO",
+  "divipola": 52835
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc521f"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 14.537352,
+  "Fallecidos": 52,
+  "GiPValue": 0,
+  "Tramo": "Tumaco-Pedregal",
+  "Latitud": 1.759821,
+  "Longitud": -78.785521,
+  "PR": 13,
+  "Municipio": "TUMACO",
+  "Departamento": "NARIÑO",
+  "divipola": 52835
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5220"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 6.329459,
+  "Fallecidos": 11,
+  "GiPValue": 0,
+  "Tramo": "Tumaco-Pedregal",
+  "Latitud": 1.798587,
+  "Longitud": -78.787178,
+  "PR": 8,
+  "Municipio": "TUMACO",
+  "Departamento": "NARIÑO",
+  "divipola": 52835
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5221"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 6.329459,
+  "Fallecidos": 25,
+  "GiPValue": 0,
+  "Tramo": "Tumaco-Pedregal",
+  "Latitud": 1.806879,
+  "Longitud": -78.773299,
+  "PR": 5,
+  "Municipio": "TUMACO",
+  "Departamento": "NARIÑO",
+  "divipola": 52835
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5222"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.144165,
+  "Fallecidos": 4,
+  "GiPValue": 0.03202,
+  "Tramo": "Ipiales - Aldana - Guachucal",
+  "Latitud": 0.828364,
+  "Longitud": -77.65515,
+  "PR": 2,
+  "Municipio": "IPIALES",
+  "Departamento": "NARIÑO",
+  "divipola": 52356
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5223"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.440202,
+  "Fallecidos": 15,
+  "GiPValue": 0.014679,
+  "Tramo": "Ipiales - Aldana - Guachucal",
+  "Latitud": 0.829329,
+  "Longitud": -77.639032,
+  "PR": 24,
+  "Municipio": "IPIALES",
+  "Departamento": "NARIÑO",
+  "divipola": 52356
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5224"
+  },
+  "ID_MT": "4G025",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.309362,
+  "Fallecidos": 21,
+  "GiPValue": 0.000935,
+  "Tramo": "Ipiales-Pedregal",
+  "Nombre": "Rumichaca – Pasto",
+  "Latitud": 0.833808,
+  "Longitud": -77.601423,
+  "PR": 0,
+  "Municipio": "IPIALES",
+  "Departamento": "NARIÑO",
+  "divipola": 52356
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5225"
+  },
+  "ID_MT": "4G025",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.258129,
+  "Fallecidos": 2,
+  "GiPValue": 0.001121,
+  "Tramo": "Puente Rumichaca-Ipiales",
+  "Nombre": "Rumichaca – Pasto",
+  "Latitud": 0.826163,
+  "Longitud": -77.615641,
+  "PR": 6,
+  "Municipio": "IPIALES",
+  "Departamento": "NARIÑO",
+  "divipola": 52356
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5226"
+  },
+  "ID_MT": "4G025",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.440202,
+  "Fallecidos": 8,
+  "GiPValue": 0.014679,
+  "Tramo": "Puente Rumichaca-Ipiales",
+  "Nombre": "Rumichaca – Pasto",
+  "Latitud": 0.821057,
+  "Longitud": -77.639026,
+  "PR": 3,
+  "Municipio": "IPIALES",
+  "Departamento": "NARIÑO",
+  "divipola": 52356
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5227"
+  },
+  "ID_MT": "4G025",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.868352,
+  "Fallecidos": 1,
+  "GiPValue": 0.004126,
+  "Tramo": "Puente Rumichaca-Ipiales",
+  "Nombre": "Rumichaca – Pasto",
+  "Latitud": 0.821702,
+  "Longitud": -77.625752,
+  "PR": 0,
+  "Municipio": "IPIALES",
+  "Departamento": "NARIÑO",
+  "divipola": 52356
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5228"
+  },
+  "ID_MT": "4G025",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.138462,
+  "Fallecidos": 5,
+  "GiPValue": 0.001698,
+  "Tramo": "Ipiales-Pedregal",
+  "Nombre": "Rumichaca – Pasto",
+  "Latitud": 0.844634,
+  "Longitud": -77.588471,
+  "PR": 10,
+  "Municipio": "IPIALES",
+  "Departamento": "NARIÑO",
+  "divipola": 52356
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5229"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.143707,
+  "Fallecidos": 1,
+  "GiPValue": 0.032056,
+  "Tramo": "Yopal - Tame",
+  "Latitud": 6.444969,
+  "Longitud": -71.734549,
+  "PR": "sd",
+  "Municipio": "TAME",
+  "Departamento": "ARAUCA",
+  "divipola": 81794
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc522a"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.10757,
+  "Fallecidos": 10,
+  "GiPValue": 0.035068,
+  "Tramo": "Tierralta-Puerto Libertador-Montelíbano",
+  "Latitud": 7.954895,
+  "Longitud": -75.432629,
+  "PR": "sd",
+  "Municipio": "MONTELÍBANO",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23466
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc522b"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "INVIAS-OTROS",
+  "GiZScore": 2.980858,
+  "Fallecidos": 10,
+  "GiPValue": 0.002874,
+  "Tramo": "La Gloria- El Tarra-Campo Seis",
+  "Latitud": 8.635917,
+  "Longitud": -72.738802,
+  "PR": "sd",
+  "Municipio": "TIBÚ",
+  "Departamento": "NORTE DE SANTANDER",
+  "divipola": 54810
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc522c"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 2.292183,
+  "Fallecidos": 10,
+  "GiPValue": 0.021895,
+  "Tramo": "La Gloria- El Tarra-Campo Seis",
+  "Latitud": 8.637569,
+  "Longitud": -72.728412,
+  "PR": "sd",
+  "Municipio": "TIBÚ",
+  "Departamento": "NORTE DE SANTANDER",
+  "divipola": 54810
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc522d"
+  },
+  "ID_MT": "<Null>",
+  "ENTIDAD": "DEPTO",
+  "GiZScore": 3.587306,
+  "Fallecidos": 15,
+  "GiPValue": 0.000334,
+  "Tramo": "San Alberto - Bucaramanga",
+  "Latitud": 7.251126,
+  "Longitud": -73.149176,
+  "PR": 14,
+  "Municipio": "RIONEGRO",
+  "Departamento": "SANTANDER",
+  "divipola": 68615
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc522e"
+  },
+  "ID_MT": "4G017",
+  "ENTIDAD": "ANI",
+  "GiZScore": 5.954884,
+  "Fallecidos": 23,
+  "GiPValue": 0,
+  "Tramo": "Neiva-Girardot",
+  "Nombre": "IP  –  Neiva – Espinal - Girardot",
+  "Latitud": 4.209663,
+  "Longitud": -74.852622,
+  "PR": 50,
+  "Municipio": "FLANDES",
+  "Departamento": "TOLIMA",
+  "divipola": 73275
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc522f"
+  },
+  "ID_MT": "4G026",
+  "ENTIDAD": "ANI",
+  "GiZScore": 3.587306,
+  "Fallecidos": 15,
+  "GiPValue": 0.000334,
+  "Tramo": "Chigorodó-Turbo",
+  "Nombre": "Autopistas al Mar 2",
+  "Latitud": 7.873917,
+  "Longitud": -76.635127,
+  "PR": 30,
+  "Municipio": "APARTADÓ",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5045
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5230"
+  },
+  "ID_MT": "3G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "Bosconia - Cienaga",
+  "Nombre": "Ruta del Sol 3",
+  "Latitud": 9.780252,
+  "Longitud": -73.748405,
+  "PR": 62,
+  "Municipio": "EL PASO",
+  "Departamento": "CESAR",
+  "divipola": 20250
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5231"
+  },
+  "ID_MT": "4G026",
+  "ENTIDAD": "ANI",
+  "GiZScore": 6.546778,
+  "Fallecidos": 25,
+  "GiPValue": 0,
+  "Tramo": "Chigorodó-Turbo",
+  "Nombre": "Autopistas al Mar 2",
+  "Latitud": 8.005361,
+  "Longitud": -76.640697,
+  "PR": 16,
+  "Municipio": "TURBO",
+  "Departamento": "ANTIOQUIA",
+  "divipola": 5837
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5232"
+  },
+  "ID_MT": "3G012",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.403517,
+  "Fallecidos": 11,
+  "GiPValue": 0.016238,
+  "Tramo": "Bosconia - Cienaga",
+  "Nombre": "Ruta del Sol 3",
+  "Latitud": 10.31016,
+  "Longitud": -74.046928,
+  "PR": 8,
+  "Municipio": "ALGARROBO",
+  "Departamento": "MAGDALENA",
+  "divipola": 47030
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5233"
+  },
+  "ID_MT": "4G016",
+  "ENTIDAD": "ANI",
+  "GiZScore": 2.699465,
+  "Fallecidos": 12,
+  "GiPValue": 0.006945,
+  "Tramo": "San Pelayo-Lorica",
+  "Nombre": "IP – Antioquia – Bolívar",
+  "Latitud": 9.030229,
+  "Longitud": -75.827469,
+  "PR": 25,
+  "Municipio": "COTORRA",
+  "Departamento": "CÓRDOBA",
+  "divipola": 23300
+},
+{
+  "_id": {
+    "$oid": "691932069ab2a696fccc5234"
+  },
+  "ID_MT": "4G017",
+  "ENTIDAD": "ANI",
+  "GiZScore": 4.771095,
+  "Fallecidos": 19,
+  "GiPValue": 0.000002,
+  "Tramo": "Neiva-Girardot",
+  "Nombre": "IP  –  Neiva – Espinal - Girardot",
+  "Latitud": 3.728237,
+  "Longitud": -75.078416,
+  "PR": 97,
+  "Municipio": "COYAIMA",
+  "Departamento": "TOLIMA",
+  "divipola": 73217
+},
+{
+  "_id": {
+    "$oid": "692111cc3c231aa2bc2968ab"
+  },
+  "ID_MT": "A1001",
+  "ENTIDAD": "UNIVERSIDAD LF",
+  "GiZScore": 2.45,
+  "Fallecidos": 3,
+  "GiPValue": 0.054,
+  "Tramo": "Bogotá - Villavicencio",
+  "Nombre": "Campus Norte",
+  "Latitud": 4.5213,
+  "Longitud": -74.0648,
+  "PR": 12,
+  "Municipio": "Calarcá",
+  "Departamento": "Quindío",
+  "divipola": 63001
+},
+{
+  "_id": {
+    "$oid": "692111e33c231aa2bc2968ad"
+  },
+  "ID_MT": "A1002",
+  "ENTIDAD": "UNAD",
+  "GiZScore": 1.89,
+  "Fallecidos": 0,
+  "GiPvalue": 0.066,
+  "Tramo": "Medellín - Caldas",
+  "Nombre": "Centro Estudiantil Horizonte",
+  "Latitud": 6.2442,
+  "Longitud": -75.5812,
+  "PR": 15,
+  "Municipio": "Medellín",
+  "Departamento": "Antioquia",
+  "divipola": 5001
+},
+{
+  "_id": {
+    "$oid": "692112423c231aa2bc2968af"
+  },
+  "ID_MT": "A1003",
+  "ENTIDAD": "POLITÉCNICO LF",
+  "GiZScore": 3.02,
+  "Fallecidos": 1,
+  "GiPvalue": 0.041,
+  "Tramo": "Armenia - Calarcá",
+  "Nombre": "Sede Ciencias Computacionales",
+  "Latitud": 4.5351,
+  "Longitud": -75.6751,
+  "PR": 9,
+  "Municipio": "Armenia",
+  "Departamento": "Quindío",
+  "divipola": 63001
+},
+{
+  "_id": {
+    "$oid": "692112523c231aa2bc2968b1"
+  },
+  "ID_MT": "A1004",
+  "ENTIDAD": "CORPORACIÓN TECNOLÓGICA",
+  "GiZScore": 0.98,
+  "Fallecidos": 0,
+  "GiPvalue": 0.088,
+  "Tramo": "Pereira - Dosquebradas",
+  "Nombre": "Campus Innovación",
+  "Latitud": 4.8143,
+  "Longitud": -75.6996,
+  "PR": 7,
+  "Municipio": "Pereira",
+  "Departamento": "Risaralda",
+  "divipola": 66001
+},
+{
+  "_id": {
+    "$oid": "6921125d3c231aa2bc2968b3"
+  },
+  "ID_MT": "A1005",
+  "ENTIDAD": "INSTITUTO NACIONAL LF",
+  "GiZScore": 4.1,
+  "Fallecidos": 5,
+  "GiPvalue": 0.032,
+  "Tramo": "Bogotá - Funza",
+  "Nombre": "Centro Académico Sabiduría",
+  "Latitud": 4.7095,
+  "Longitud": -74.2117,
+  "PR": 20,
+  "Municipio": "Funza",
+  "Departamento": "Cundinamarca",
+  "divipola": 25286
+}]

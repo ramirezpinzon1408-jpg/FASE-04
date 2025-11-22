@@ -1,0 +1,42 @@
+import pymongo
+import pandas as pd
+
+# Conexión a MongoDB
+client = pymongo.MongoClient("mongodb://localhost:27017")
+db = client["FASE 4"]
+collection = db["ESTUDIANTES"]
+
+# -------------------------------
+# CONSULTA 1: Buscar por municipio
+# -------------------------------
+consulta1 = list(collection.find({"Municipio": "Calarcá"}))
+print("Consulta 1 - Municipio Calarcá")
+print(pd.DataFrame(consulta1), "\n")
+
+# -----------------------------------------
+# CONSULTA 2: Buscar GiZScore mayor a 2
+# -----------------------------------------
+consulta2 = list(collection.find({"GiZScore": {"$gt": 2}}))
+print("Consulta 2 - GiZScore > 2")
+print(pd.DataFrame(consulta2), "\n")
+
+# ---------------------------------------
+# CONSULTA 3: Buscar por departamento
+# ---------------------------------------
+consulta3 = list(collection.find({"Departamento": "Quindío"}))
+print("Consulta 3 - Departamento Quindío")
+print(pd.DataFrame(consulta3), "\n")
+
+# -----------------------------------
+# CONSULTA 4: Buscar por ENTIDAD
+# -----------------------------------
+consulta4 = list(collection.find({"ENTIDAD": "UNIVERSIDAD LF"}))
+print("Consulta 4 - ENTIDAD UNIVERSIDAD LF")
+print(pd.DataFrame(consulta4), "\n")
+
+# ----------------------------------------------
+# CONSULTA 5: Buscar PR mayor o igual que 10
+# ----------------------------------------------
+consulta5 = list(collection.find({"PR": {"$gte": 10}}))
+print("Consulta 5 - PR >= 10")
+print(pd.DataFrame(consulta5), "\n")
