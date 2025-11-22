@@ -1,1 +1,73 @@
-.
+
+---
+
+## 📌 1. Base de datos modificada
+
+Los datos fueron editados manualmente en MongoDB Compass, modificando campos como:
+
+- Municipio  
+- Departamento  
+- ENTIDAD  
+- GiZScore  
+- PR  
+
+Luego se exportaron en formato JSON:
+
+📄 **UNIVERSIDAD.ESTUDIANTES.json**
+
+---
+
+## 📌 2. Consultas realizadas en MongoDB
+
+Las consultas usadas para analizar los datos se encuentran en:
+
+📄 **consultas.js**
+
+Estas incluyen:
+
+1. Buscar por municipio  
+2. Buscar GiZScore mayor a 2  
+3. Buscar por departamento  
+4. Buscar por ENTIDAD  
+5. Buscar PR mayor o igual que 10  
+6. Buscar por tramo específico (consulta adicional)
+
+---
+
+## 📸 3. Evidencias de las consultas ejecutadas
+
+### 🔹 1. Buscar por municipio
+![Buscar por municipio](imagenes/Buscar%20por%20municipio.png)
+
+---
+
+### 🔹 2. Buscar GiZScore mayor a 2
+![Buscar GiZScore mayor a 2](imagenes/Buscar%20GiZScore%20mayor%20a%202.png)
+
+---
+
+### 🔹 3. Buscar por departamento
+![Buscar por departamento](imagenes/Buscar%20por%20departamento.png)
+
+---
+
+### 🔹 4. Buscar por ENTIDAD
+![Buscar por ENTIDAD](imagenes/Buscar%20por%20ENTIDAD.png)
+
+---
+
+### 🔹 5. Buscar PR mayor o igual que 10
+![Buscar PR mayor o igual que 10](imagenes/Buscar%20PR%20mayor%20o%20igual%20que%2010.png)
+
+---
+
+### 🔹 6. Buscar por tramo específico (consulta adicional)
+![Buscar por tramo específico](imagenes/Buscar%20por%20tramo%20específico.png)
+
+---
+
+## 👤 Autor  
+Luis Felipe  
+Ingeniería de Sistemas
+
+
